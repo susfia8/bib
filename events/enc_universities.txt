@@ -1,0 +1,108 @@
+add_namespace = enc_university
+
+country_event = {
+	id = enc_university.1
+	title = enc_university.1.t
+	desc = enc_university.1.d
+	picture = GFX_event_enc_US_embassy
+    is_triggered_only = yes
+		option = { 
+			name = enc_university.1.a
+			custom_effect_tooltip = enc_university.1.a.tt
+			set_country_flag = enclave_university
+			add_dynamic_modifier = { modifier = bib_universities }
+		}
+	}
+	
+	
+country_event = {
+	id = enc_university.2
+	title = enc_university.2.t
+	desc = enc_university.2.d
+	picture = GFX_event_enc_new_reno_initiative
+	is_triggered_only = yes
+	fire_only_once = yes
+
+		option = { 
+			name = enc_university.2.a
+			custom_effect_tooltip = enc_university.2.a.tt
+			add_to_variable = { uni_research_speed = 0.005 }
+		}
+	}
+
+
+country_event = {
+	id = enc_university.3
+	title = enc_university.3.t
+	desc = enc_university.3.d
+	picture = GFX_event_lucky_38
+	is_triggered_only = yes
+	fire_only_once = yes
+
+		option = { 
+			name = enc_university.3.a
+			add_to_variable = { uni_research_speed = 0.005 }
+		}
+	}	
+	
+	
+
+
+country_event = {
+	id = enc_university.4
+	title = enc_university.4.t
+	desc = enc_university.4.d
+	picture = GFX_event_NCN_new_canaan
+	is_triggered_only = yes
+	fire_only_once = yes
+
+		option = { 
+			name = enc_university.4.a
+			add_to_variable = { uni_research_speed = 0.005 }
+		}
+	}
+	
+	
+country_event = {
+	id = enc_university.5
+	title = enc_university.5.t
+	desc = enc_university.5.d
+	picture = GFX_event_meat_vendor
+	is_triggered_only = yes
+	fire_only_once = yes
+
+		option = { 
+			name = enc_university.5.a
+			add_to_variable = { uni_research_speed = 0.005 }
+		}
+	}	
+	
+	
+country_event = {
+	id = enc_university.6
+	title = enc_university.6.t
+	desc = enc_university.6.d
+	picture = GFX_event_ash_barrens
+	is_triggered_only = yes
+	fire_only_once = yes
+
+		option = { 
+			name = enc_university.6.a
+			add_to_variable = { uni_research_speed = 0.005 }
+		}
+	}	
+	
+	
+country_event = {
+	id = enc_university.7
+	title = enc_university.7.t
+	desc = enc_university.7.d
+	picture = GFX_event_clifftop_retreat
+	is_triggered_only = yes
+	fire_only_once = yes
+
+		option = { 
+			name = enc_university.7.a
+			add_to_variable = { uni_research_speed = 0.005 }
+		}
+	}		

@@ -1,0 +1,154 @@
+spriteTypes = {
+	spriteType = {
+			name = "GFX_idea_smithsonian"
+			texturefile = "gfx/interface/ideas/bib_smithsonian.dds"
+		}
+	spriteType = {
+			name = "GFX_idea_stock_market"
+			texturefile = "gfx/interface/ideas/bib_stock_market.dds"
+		}
+	spriteType = {
+			name = "GFX_idea_fema"
+			texturefile = "gfx/interface/ideas/bib_fema.dds"
+		}
+	spriteType = {
+			name = "GFX_idea_market_crash"
+			texturefile = "gfx/interface/ideas/bib_market_crash.dds"
+		}
+	spriteType = {
+			name = "GFX_idea_nih"
+			texturefile = "gfx/interface/ideas/bib_nih.dds"
+		}
+	spriteType = {
+			name = "GFX_idea_cdc"
+			texturefile = "gfx/interface/ideas/bib_cdc.dds"
+		}
+	spriteType = {
+			name = "GFX_idea_cfpb"
+			texturefile = "gfx/interface/ideas/bib_cfpb.dds"
+		}
+	spriteType = {
+			name = "GFX_idea_fdic"
+			texturefile = "gfx/interface/ideas/bib_fdic.dds"
+		}
+	spriteType = {
+			name = "GFX_idea_sec"
+			texturefile = "gfx/interface/ideas/bib_sec.dds"
+		}
+	spriteType = {
+			name = "GFX_idea_cftc"
+			texturefile = "gfx/interface/ideas/bib_cftc.dds"
+		}
+	spriteType = {
+			name = "GFX_idea_fsoc"
+			texturefile = "gfx/interface/ideas/bib_fsoc.dds"
+		}
+	spriteType = {
+			name = "GFX_idea_new_american_financial_system"
+			texturefile = "gfx/interface/ideas/bib_new_american_financial_system.dds"
+		}
+	spriteType = {
+			name = "GFX_idea_hhs"
+			texturefile = "gfx/interface/ideas/bib_hhs.dds"
+		}
+	spriteType = {
+			name = "GFX_idea_radstorm"
+			texturefile = "gfx/interface/ideas/bib_radstorm.dds"
+		}
+	spriteType = {
+			name = "GFX_idea_library_of_congress"
+			texturefile = "gfx/interface/ideas/bib_library_of_congress.dds"
+		}
+	spriteType = {
+			name = "GFX_idea_digital_archives"
+			texturefile = "gfx/interface/ideas/bib_digital_archives.dds"
+		}
+	spriteType = {
+			name = "GFX_idea_ocean_cleanup"
+			texturefile = "gfx/interface/ideas/bib_ocean_cleanup.dds"
+		}
+	spriteType = {
+			name = "GFX_idea_land_reorganization"
+			texturefile = "gfx/interface/ideas/bib_land_reorganization.dds"
+		}
+	spriteType = {
+			name = "GFX_idea_rural_electrification"
+			texturefile = "gfx/interface/ideas/bib_rural_electrification.dds"
+		}
+	spriteType = {
+			name = "GFX_idea_comm_infrastructure"
+			texturefile = "gfx/interface/ideas/bib_comm_infrastructure.dds"
+		}
+	spriteType = {
+			name = "GFX_idea_health_right"
+			texturefile = "gfx/interface/ideas/bib_health_right.dds"
+		}
+	spriteType = {
+			name = "GFX_idea_universal_coverage"
+			texturefile = "gfx/interface/ideas/bib_universal_coverage.dds"
+		}
+	spriteType = {
+			name = "GFX_idea_integrate_followers"
+			texturefile = "gfx/interface/ideas/bib_integrate_followers.dds"
+		}
+	spriteType = {
+			name = "GFX_idea_public_option"
+			texturefile = "gfx/interface/ideas/bib_public_option.dds"
+		}
+	spriteType = {
+			name = "GFX_idea_private_care"
+			texturefile = "gfx/interface/ideas/bib_private_care.dds"
+		}
+	spriteType = {
+			name = "GFX_idea_corporate_clinics"
+			texturefile = "gfx/interface/ideas/bib_corporate_clinics.dds"
+		}
+	spriteType = {
+			name = "GFX_idea_pharma_innovation"
+			texturefile = "gfx/interface/ideas/bib_pharma_innovation.dds"
+		}
+	spriteType = {
+			name = "GFX_idea_competitive_health"
+			texturefile = "gfx/interface/ideas/bib_competitive_health.dds"
+		}
+	spriteType = {
+			name = "GFX_idea_vastness_la"
+			texturefile = "gfx/interface/ideas/bib_vastness_la.dds"
+		}
+	spriteType = {
+			name = "GFX_idea_city_of_angels"
+			texturefile = "gfx/interface/ideas/bib_city_of_angels.dds"
+		}
+	spriteType = {
+			name = "GFX_idea_drain_the_swamp"
+			texturefile = "gfx/interface/ideas/bib_drain_swamp.dds"
+		}
+	spriteType = {
+			name = "GFX_idea_gold_coast"
+			texturefile = "gfx/interface/ideas/bib_gold_coast.dds"
+		}
+	spriteType = {
+			name = "GFX_idea_collapsing_golden_gate"
+			texturefile = "gfx/interface/ideas/bib_collapsing_golden_gate.dds"
+		}
+	spriteType = {
+			name = "GFX_idea_rebuilding_golden_gate"
+			texturefile = "gfx/interface/ideas/bib_rebuilding_golden_gate.dds"
+		}
+	spriteType = {
+			name = "GFX_idea_efficient_market_economy"
+			texturefile = "gfx/interface/ideas/bib_efficient_market_economy.dds"
+		}
+	spriteType = {
+			name = "GFX_idea_free_and_fair_economy"
+			texturefile = "gfx/interface/ideas/bib_free_and_fair_economy.dds"
+		}
+	spriteType = {
+			name = "GFX_idea_union_led_economy"
+			texturefile = "gfx/interface/ideas/bib_union_led_economy.dds"
+		}
+	spriteType = {
+			name = "GFX_idea_digital_economic_planning"
+			texturefile = "gfx/interface/ideas/bib_digital_economy.dds"
+		}
+	}

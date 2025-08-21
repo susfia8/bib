@@ -1,0 +1,3243 @@
+spriteTypes = {
+
+SpriteType = {
+	name = "GFX_goal_bib_back_shine"
+	texturefile = "gfx/interface/goals/bib_back.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_back.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_back.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_nyse_shine"
+	texturefile = "gfx/interface/goals/bib_nyse.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_nyse.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_nyse.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_stock_market_shine"
+	texturefile = "gfx/interface/goals/bib_stock_market.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_stock_market.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_stock_market.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_crash_shine"
+	texturefile = "gfx/interface/goals/bib_crash.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_crash.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_crash.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_ftc_shine"
+	texturefile = "gfx/interface/goals/bib_ftc.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_ftc.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_ftc.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_fcc_shine"
+	texturefile = "gfx/interface/goals/bib_fcc.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_fcc.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_fcc.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_cfpb_shine"
+	texturefile = "gfx/interface/goals/bib_cfpb.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_cfpb.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_cfpb.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_cftc_shine"
+	texturefile = "gfx/interface/goals/bib_cftc.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_cftc.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_cftc.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_fdic_shine"
+	texturefile = "gfx/interface/goals/bib_fdic.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_fdic.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_fdic.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_sec_shine"
+	texturefile = "gfx/interface/goals/bib_sec.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_sec.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_sec.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_hhs_shine"
+	texturefile = "gfx/interface/goals/bib_hhs.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_hhs.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_hhs.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_nih_shine"
+	texturefile = "gfx/interface/goals/bib_nih.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_nih.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_nih.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_cdc_shine"
+	texturefile = "gfx/interface/goals/bib_cdc.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_cdc.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_cdc.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_voa_shine"
+	texturefile = "gfx/interface/goals/bib_voa.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_voa.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_voa.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_smithsonian_shine"
+	texturefile = "gfx/interface/goals/bib_smithsonian.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_smithsonian.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_smithsonian.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_library_congress_shine"
+	texturefile = "gfx/interface/goals/bib_library_congress.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_library_congress.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_library_congress.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_fema_shine"
+	texturefile = "gfx/interface/goals/bib_fema.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_fema.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_fema.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_noaa_shine"
+	texturefile = "gfx/interface/goals/bib_noaa.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_noaa.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_noaa.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_nws_shine"
+	texturefile = "gfx/interface/goals/bib_nws.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_nws.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_nws.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_new_american_finance_shine"
+	texturefile = "gfx/interface/goals/bib_new_american_finance.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_new_american_finance.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_new_american_finance.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_fsoc_shine"
+	texturefile = "gfx/interface/goals/bib_fsoc.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_fsoc.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_fsoc.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_supercharge_epa_shine"
+	texturefile = "gfx/interface/goals/bib_supercharge_epa.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_supercharge_epa.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_supercharge_epa.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_digital_archives_shine"
+	texturefile = "gfx/interface/goals/bib_digital_archives.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_digital_archives.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_digital_archives.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_radstorm_prediction_shine"
+	texturefile = "gfx/interface/goals/bib_radstorm_prediction.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_radstorm_prediction.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_radstorm_prediction.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_green_marble_shine"
+	texturefile = "gfx/interface/goals/bib_green_marble.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_green_marble.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_green_marble.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_ocean_cleanup_shine"
+	texturefile = "gfx/interface/goals/bib_ocean_cleanup.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_ocean_cleanup.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_ocean_cleanup.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_trust_busting_shine"
+	texturefile = "gfx/interface/goals/bib_trust_busting.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_trust_busting.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_trust_busting.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_comm_infrastucture_shine"
+	texturefile = "gfx/interface/goals/bib_comm_infrastucture.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_comm_infrastucture.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_comm_infrastucture.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_color_tv_shine"
+	texturefile = "gfx/interface/goals/bib_color_tv.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_color_tv.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_color_tv.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_ncra_shine"
+	texturefile = "gfx/interface/goals/bib_ncra.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_ncra.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_ncra.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_national_corps_for_reconstruction_shine"
+	texturefile = "gfx/interface/goals/bib_national_corps_for_reconstruction.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_national_corps_for_reconstruction.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_national_corps_for_reconstruction.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_private_care_shine"
+	texturefile = "gfx/interface/goals/bib_private_care.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_private_care.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_private_care.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_public_option_shine"
+	texturefile = "gfx/interface/goals/bib_public_option.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_public_option.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_public_option.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_corporate_clinics_shine"
+	texturefile = "gfx/interface/goals/bib_corporate_clinics.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_corporate_clinics.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_corporate_clinics.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_health_right_shine"
+	texturefile = "gfx/interface/goals/bib_health_right.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_health_right.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_health_right.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_universal_coverage_shine"
+	texturefile = "gfx/interface/goals/bib_universal_coverage.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_universal_coverage.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_universal_coverage.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_competitive_health_shine"
+	texturefile = "gfx/interface/goals/bib_competitive_health.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_competitive_health.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_competitive_health.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_pharma_innovation_shine"
+	texturefile = "gfx/interface/goals/bib_pharma_innovation.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_pharma_innovation.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_pharma_innovation.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_los_angeles_shine"
+	texturefile = "gfx/interface/goals/bib_los_angeles.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_los_angeles.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_los_angeles.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_santa_monica_shine"
+	texturefile = "gfx/interface/goals/bib_santa_monica.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_santa_monica.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_santa_monica.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_compton_shine"
+	texturefile = "gfx/interface/goals/bib_compton.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_compton.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_compton.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_hollywood_shine"
+	texturefile = "gfx/interface/goals/bib_hollywood.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_hollywood.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_hollywood.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_orange_county_shine"
+	texturefile = "gfx/interface/goals/bib_orange_county.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_orange_county.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_orange_county.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_pasadena_shine"
+	texturefile = "gfx/interface/goals/bib_pasadena.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_pasadena.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_pasadena.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_long_beach_shine"
+	texturefile = "gfx/interface/goals/bib_long_beach.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_long_beach.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_long_beach.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_city_of_angels_shine"
+	texturefile = "gfx/interface/goals/bib_city_of_angels.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_city_of_angels.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_city_of_angels.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_miami_shine"
+	texturefile = "gfx/interface/goals/bib_miami.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_miami.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_miami.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_north_miami_shine"
+	texturefile = "gfx/interface/goals/bib_north_miami.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_north_miami.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_north_miami.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_south_miami_shine"
+	texturefile = "gfx/interface/goals/bib_south_miami.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_south_miami.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_south_miami.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_drain_the_swamp_shine"
+	texturefile = "gfx/interface/goals/bib_drain_the_swamp.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_drain_the_swamp.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_drain_the_swamp.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_gold_coast_shine"
+	texturefile = "gfx/interface/goals/bib_gold_coast.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_gold_coast.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_gold_coast.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_san_francisco_shine"
+	texturefile = "gfx/interface/goals/bib_san_francisco.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_san_francisco.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_san_francisco.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_expand_chinatown_shine"
+	texturefile = "gfx/interface/goals/bib_expand_chinatown.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_expand_chinatown.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_expand_chinatown.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_north_bay_shine"
+	texturefile = "gfx/interface/goals/bib_north_bay.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_north_bay.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_north_bay.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_east_bay_shine"
+	texturefile = "gfx/interface/goals/bib_east_bay.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_east_bay.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_east_bay.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_south_bay_shine"
+	texturefile = "gfx/interface/goals/bib_south_bay.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_south_bay.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_south_bay.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_we_built_this_city_shine"
+	texturefile = "gfx/interface/goals/bib_we_built_this_city.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_we_built_this_city.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_we_built_this_city.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_san_francisco_proper_shine"
+	texturefile = "gfx/interface/goals/bib_san_francisco_proper.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_san_francisco_proper.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_san_francisco_proper.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_robot_lending_shine"
+	texturefile = "gfx/interface/goals/bib_robot_lending.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_robot_lending.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_robot_lending.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_public_housing_shine"
+	texturefile = "gfx/interface/goals/bib_public_housing.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_public_housing.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_public_housing.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_public_transport_shine"
+	texturefile = "gfx/interface/goals/bib_public_transport.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_public_transport.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_public_transport.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_subsidize_households_shine"
+	texturefile = "gfx/interface/goals/bib_subsidize_households.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_subsidize_households.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_subsidize_households.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_food_stamps_shine"
+	texturefile = "gfx/interface/goals/bib_food_stamps.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_food_stamps.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_food_stamps.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_nationalization_shine"
+	texturefile = "gfx/interface/goals/bib_nationalization.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_nationalization.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_nationalization.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_promote_unions_shine"
+	texturefile = "gfx/interface/goals/bib_promote_unions.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_promote_unions.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_promote_unions.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_labor_regulations_shine"
+	texturefile = "gfx/interface/goals/bib_labor_regulations.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_labor_regulations.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_labor_regulations.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_progressive_taxation_shine"
+	texturefile = "gfx/interface/goals/bib_progressive_taxation.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_progressive_taxation.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_progressive_taxation.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_market_economy_shine"
+	texturefile = "gfx/interface/goals/bib_market_economy.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_market_economy.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_market_economy.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_state_economy_shine"
+	texturefile = "gfx/interface/goals/bib_state_economy.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_state_economy.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_state_economy.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_state_development_shine"
+	texturefile = "gfx/interface/goals/bib_state_development.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_state_development.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_state_development.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_second_bill_of_rights_shine"
+	texturefile = "gfx/interface/goals/bib_second_bill_of_rights.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_second_bill_of_rights.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_second_bill_of_rights.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_new_new_deal_shine"
+	texturefile = "gfx/interface/goals/bib_new_new_deal.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_new_new_deal.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_new_new_deal.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_red_tape_shine"
+	texturefile = "gfx/interface/goals/bib_red_tape.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_red_tape.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_red_tape.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_tax_cuts_shine"
+	texturefile = "gfx/interface/goals/bib_tax_cuts.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_tax_cuts.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_tax_cuts.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_free_trade_shine"
+	texturefile = "gfx/interface/goals/bib_free_trade.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_free_trade.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_free_trade.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_privatization_shine"
+	texturefile = "gfx/interface/goals/bib_privatization.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_privatization.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_privatization.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_entrepreneurship_shine"
+	texturefile = "gfx/interface/goals/bib_entrepreneurship.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_entrepreneurship.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_entrepreneurship.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_ppp_shine"
+	texturefile = "gfx/interface/goals/bib_ppp.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_ppp.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_ppp.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_tax_credits_shine"
+	texturefile = "gfx/interface/goals/bib_tax_credits.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_tax_credits.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_tax_credits.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_support_small_businesses_shine"
+	texturefile = "gfx/interface/goals/bib_support_small_businesses.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_support_small_businesses.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_support_small_businesses.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_export_american_goods_shine"
+	texturefile = "gfx/interface/goals/bib_export_american_goods.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_export_american_goods.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_export_american_goods.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_sez_shine"
+	texturefile = "gfx/interface/goals/bib_sez.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_sez.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_sez.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_union_led_economy_shine"
+	texturefile = "gfx/interface/goals/bib_union_led_economy.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_union_led_economy.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_union_led_economy.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_digital_economy_shine"
+	texturefile = "gfx/interface/goals/bib_digital_economy.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_digital_economy.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_digital_economy.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_free_and_fair_economy_shine"
+	texturefile = "gfx/interface/goals/bib_free_and_fair_economy.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_free_and_fair_economy.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_free_and_fair_economy.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_efficient_market_economy_shine"
+	texturefile = "gfx/interface/goals/bib_efficient_market_economy.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_efficient_market_economy.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_efficient_market_economy.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_department_of_education_shine"
+	texturefile = "gfx/interface/goals/bib_department_of_education.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_department_of_education.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_department_of_education.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_buildup_schools_shine"
+	texturefile = "gfx/interface/goals/bib_buildup_schools.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_buildup_schools.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_buildup_schools.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_trade_schools_shine"
+	texturefile = "gfx/interface/goals/bib_trade_schools.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_trade_schools.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_trade_schools.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_cultural_studies_shine"
+	texturefile = "gfx/interface/goals/bib_cultural_studies.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_cultural_studies.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_cultural_studies.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_american_universities_shine"
+	texturefile = "gfx/interface/goals/bib_american_universities.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_american_universities.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_american_universities.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_engineering_schools_shine"
+	texturefile = "gfx/interface/goals/bib_engineering_schools.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_engineering_schools.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_engineering_schools.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_agriculture_schools_shine"
+	texturefile = "gfx/interface/goals/bib_agriculture_schools.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_agriculture_schools.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_agriculture_schools.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_medical_schools_shine"
+	texturefile = "gfx/interface/goals/bib_medical_schools.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_medical_schools.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_medical_schools.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_on_site_training_shine"
+	texturefile = "gfx/interface/goals/bib_on_site_training.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_on_site_training.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_on_site_training.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_employment_agencies_shine"
+	texturefile = "gfx/interface/goals/bib_employment_agencies.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_employment_agencies.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_employment_agencies.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_fda_shine"
+	texturefile = "gfx/interface/goals/bib_fda.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_fda.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_fda.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_revitalize_land_shine"
+	texturefile = "gfx/interface/goals/bib_revitalize_land.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_revitalize_land.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_revitalize_land.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_new_american_farmers_shine"
+	texturefile = "gfx/interface/goals/bib_new_american_farmers.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_new_american_farmers.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_new_american_farmers.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_animal_sequencing_shine"
+	texturefile = "gfx/interface/goals/bib_animal_sequencing.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_animal_sequencing.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_animal_sequencing.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_hybrids_shine"
+	texturefile = "gfx/interface/goals/bib_hybrids.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_hybrids.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_hybrids.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_plant_shine"
+	texturefile = "gfx/interface/goals/bib_plant.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_plant.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_plant.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_american_flora_shine"
+	texturefile = "gfx/interface/goals/bib_american_flora.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_american_flora.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_american_flora.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_countryside_shine"
+	texturefile = "gfx/interface/goals/bib_countryside.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_countryside.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_countryside.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_new_doctors_shine"
+	texturefile = "gfx/interface/goals/bib_new_doctors.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_new_doctors.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_new_doctors.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_medical_boards_shine"
+	texturefile = "gfx/interface/goals/bib_medical_boards.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_medical_boards.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_medical_boards.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_categorize_diseases_shine"
+	texturefile = "gfx/interface/goals/bib_categorize_diseases.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_categorize_diseases.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_categorize_diseases.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+SpriteType = {
+	name = "GFX_goal_bib_psychology_institutes_shine"
+	texturefile = "gfx/interface/goals/bib_psychology_institutes.dds"
+	effectFile = "gfx/FX/buttonstate.lua"
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_psychology_institutes.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = -90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 } 
+	}
+	animation = {
+		animationmaskfile = "gfx/interface/goals/bib_psychology_institutes.dds"
+		animationtexturefile = "gfx/interface/goals/shine_overlay.dds"
+		animationrotation = 90.0
+		animationlooping = no
+		animationtime = 0.75
+		animationdelay = 0
+		animationblendmode = "add"
+		animationtype = "scrolling"
+		animationrotationoffset = { x = 0.0 y = 0.0 }
+		animationtexturescale = { x = 1.0 y = 1.0 }
+	}
+	legacy\_lazy\_load = no
+}
+}

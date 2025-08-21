@@ -1,0 +1,435 @@
+spriteTypes = {
+
+spriteType = {
+	name = "GFX_goal_bib_back"
+	texturefile = "gfx/interface/goals/bib_back.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_nyse"
+	texturefile = "gfx/interface/goals/bib_nyse.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_stock_market"
+	texturefile = "gfx/interface/goals/bib_stock_market.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_crash"
+	texturefile = "gfx/interface/goals/bib_crash.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_fcc"
+	texturefile = "gfx/interface/goals/bib_fcc.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_ftc"
+	texturefile = "gfx/interface/goals/bib_ftc.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_cfpb"
+	texturefile = "gfx/interface/goals/bib_cfpb.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_cftc"
+	texturefile = "gfx/interface/goals/bib_cftc.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_fdic"
+	texturefile = "gfx/interface/goals/bib_fdic.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_sec"
+	texturefile = "gfx/interface/goals/bib_sec.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_hhs"
+	texturefile = "gfx/interface/goals/bib_hhs.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_nih"
+	texturefile = "gfx/interface/goals/bib_nih.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_cdc"
+	texturefile = "gfx/interface/goals/bib_cdc.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_voa"
+	texturefile = "gfx/interface/goals/bib_voa.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_smithsonian"
+	texturefile = "gfx/interface/goals/bib_smithsonian.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_library_congress"
+	texturefile = "gfx/interface/goals/bib_library_congress.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_fema"
+	texturefile = "gfx/interface/goals/bib_fema.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_noaa"
+	texturefile = "gfx/interface/goals/bib_noaa.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_nws"
+	texturefile = "gfx/interface/goals/bib_nws.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_new_american_finance"
+	texturefile = "gfx/interface/goals/bib_new_american_finance.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_fsoc"
+	texturefile = "gfx/interface/goals/bib_fsoc.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_supercharge_epa"
+	texturefile = "gfx/interface/goals/bib_supercharge_epa.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_digital_archives"
+	texturefile = "gfx/interface/goals/bib_digital_archives.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_radstorm_prediction"
+	texturefile = "gfx/interface/goals/bib_radstorm_prediction.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_green_marble"
+	texturefile = "gfx/interface/goals/bib_green_marble.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_ocean_cleanup"
+	texturefile = "gfx/interface/goals/bib_ocean_cleanup.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_trust_busting"
+	texturefile = "gfx/interface/goals/bib_trust_busting.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_comm_infrastucture"
+	texturefile = "gfx/interface/goals/bib_comm_infrastucture.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_color_tv"
+	texturefile = "gfx/interface/goals/bib_color_tv.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_ncra"
+	texturefile = "gfx/interface/goals/bib_ncra.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_national_corps_for_reconstruction"
+	texturefile = "gfx/interface/goals/bib_national_corps_for_reconstruction.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_private_care"
+	texturefile = "gfx/interface/goals/bib_private_care.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_public_option"
+	texturefile = "gfx/interface/goals/bib_public_option.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_corporate_clinics"
+	texturefile = "gfx/interface/goals/bib_corporate_clinics.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_health_right"
+	texturefile = "gfx/interface/goals/bib_health_right.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_universal_coverage"
+	texturefile = "gfx/interface/goals/bib_universal_coverage.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_competitive_health"
+	texturefile = "gfx/interface/goals/bib_competitive_health.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_pharma_innovation"
+	texturefile = "gfx/interface/goals/bib_pharma_innovation.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_los_angeles"
+	texturefile = "gfx/interface/goals/bib_los_angeles.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_santa_monica"
+	texturefile = "gfx/interface/goals/bib_santa_monica.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_compton"
+	texturefile = "gfx/interface/goals/bib_compton.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_hollywood"
+	texturefile = "gfx/interface/goals/bib_hollywood.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_orange_county"
+	texturefile = "gfx/interface/goals/bib_orange_county.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_pasadena"
+	texturefile = "gfx/interface/goals/bib_pasadena.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_long_beach"
+	texturefile = "gfx/interface/goals/bib_long_beach.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_city_of_angels"
+	texturefile = "gfx/interface/goals/bib_city_of_angels.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_miami"
+	texturefile = "gfx/interface/goals/bib_miami.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_north_miami"
+	texturefile = "gfx/interface/goals/bib_north_miami.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_south_miami"
+	texturefile = "gfx/interface/goals/bib_south_miami.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_drain_the_swamp"
+	texturefile = "gfx/interface/goals/bib_drain_the_swamp.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_gold_coast"
+	texturefile = "gfx/interface/goals/bib_gold_coast.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_san_francisco"
+	texturefile = "gfx/interface/goals/bib_san_francisco.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_expand_chinatown"
+	texturefile = "gfx/interface/goals/bib_expand_chinatown.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_north_bay"
+	texturefile = "gfx/interface/goals/bib_north_bay.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_east_bay"
+	texturefile = "gfx/interface/goals/bib_east_bay.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_south_bay"
+	texturefile = "gfx/interface/goals/bib_south_bay.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_we_built_this_city"
+	texturefile = "gfx/interface/goals/bib_we_built_this_city.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_san_francisco_proper"
+	texturefile = "gfx/interface/goals/bib_san_francisco_proper.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_robot_lending"
+	texturefile = "gfx/interface/goals/bib_robot_lending.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_public_housing"
+	texturefile = "gfx/interface/goals/bib_public_housing.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_public_transport"
+	texturefile = "gfx/interface/goals/bib_public_transport.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_subsidize_households"
+	texturefile = "gfx/interface/goals/bib_subsidize_households.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_food_stamps"
+	texturefile = "gfx/interface/goals/bib_food_stamps.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_nationalization"
+	texturefile = "gfx/interface/goals/bib_nationalization.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_promote_unions"
+	texturefile = "gfx/interface/goals/bib_promote_unions.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_labor_regulations"
+	texturefile = "gfx/interface/goals/bib_labor_regulations.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_progressive_taxation"
+	texturefile = "gfx/interface/goals/bib_progressive_taxation.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_market_economy"
+	texturefile = "gfx/interface/goals/bib_market_economy.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_state_economy"
+	texturefile = "gfx/interface/goals/bib_state_economy.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_state_development"
+	texturefile = "gfx/interface/goals/bib_state_development.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_second_bill_of_rights"
+	texturefile = "gfx/interface/goals/bib_second_bill_of_rights.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_new_new_deal"
+	texturefile = "gfx/interface/goals/bib_new_new_deal.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_red_tape"
+	texturefile = "gfx/interface/goals/bib_red_tape.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_tax_cuts"
+	texturefile = "gfx/interface/goals/bib_tax_cuts.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_free_trade"
+	texturefile = "gfx/interface/goals/bib_free_trade.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_privatization"
+	texturefile = "gfx/interface/goals/bib_privatization.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_entrepreneurship"
+	texturefile = "gfx/interface/goals/bib_entrepreneurship.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_ppp"
+	texturefile = "gfx/interface/goals/bib_ppp.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_tax_credits"
+	texturefile = "gfx/interface/goals/bib_tax_credits.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_support_small_businesses"
+	texturefile = "gfx/interface/goals/bib_support_small_businesses.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_export_american_goods"
+	texturefile = "gfx/interface/goals/bib_export_american_goods.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_sez"
+	texturefile = "gfx/interface/goals/bib_sez.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_union_led_economy"
+	texturefile = "gfx/interface/goals/bib_union_led_economy.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_digital_economy"
+	texturefile = "gfx/interface/goals/bib_digital_economy.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_free_and_fair_economy"
+	texturefile = "gfx/interface/goals/bib_free_and_fair_economy.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_efficient_market_economy"
+	texturefile = "gfx/interface/goals/bib_efficient_market_economy.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_department_of_education"
+	texturefile = "gfx/interface/goals/bib_department_of_education.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_buildup_schools"
+	texturefile = "gfx/interface/goals/bib_buildup_schools.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_trade_schools"
+	texturefile = "gfx/interface/goals/bib_trade_schools.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_cultural_studies"
+	texturefile = "gfx/interface/goals/bib_cultural_studies.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_american_universities"
+	texturefile = "gfx/interface/goals/bib_american_universities.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_engineering_schools"
+	texturefile = "gfx/interface/goals/bib_engineering_schools.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_agriculture_schools"
+	texturefile = "gfx/interface/goals/bib_agriculture_schools.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_medical_schools"
+	texturefile = "gfx/interface/goals/bib_medical_schools.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_on_site_training"
+	texturefile = "gfx/interface/goals/bib_on_site_training.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_employment_agencies"
+	texturefile = "gfx/interface/goals/bib_employment_agencies.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_fda"
+	texturefile = "gfx/interface/goals/bib_fda.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_revitalize_land"
+	texturefile = "gfx/interface/goals/bib_revitalize_land.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_new_american_farmers"
+	texturefile = "gfx/interface/goals/bib_new_american_farmers.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_animal_sequencing"
+	texturefile = "gfx/interface/goals/bib_animal_sequencing.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_hybrids"
+	texturefile = "gfx/interface/goals/bib_hybrids.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_plant"
+	texturefile = "gfx/interface/goals/bib_plant.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_american_flora"
+	texturefile = "gfx/interface/goals/bib_american_flora.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_countryside"
+	texturefile = "gfx/interface/goals/bib_countryside.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_new_doctors"
+	texturefile = "gfx/interface/goals/bib_new_doctors.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_medical_boards"
+	texturefile = "gfx/interface/goals/bib_medical_boards.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_categorize_diseases"
+	texturefile = "gfx/interface/goals/bib_categorize_diseases.dds"
+}
+spriteType = {
+	name = "GFX_goal_bib_psychology_institutes"
+	texturefile = "gfx/interface/goals/bib_psychology_institutes.dds"
+}
+}

@@ -1,0 +1,11 @@
+ENCuniversity = {
+	priority = 8
+	icon = corruption_20
+	visible = {
+		 has_country_flag = enclave_university
+	}
+	visible_when_empty = yes
+	allowed = {
+		always = yes
+	}
+}

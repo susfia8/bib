@@ -1,0 +1,463 @@
+add_namespace = bib
+
+country_event = { # Supercharge EPA
+    id = bib.1
+    title = bib.1.t
+    desc = bib.1.d
+    picture = GFX_report_event_bib_epa
+
+    is_triggered_only = yes
+
+    option = {
+        name = bib.1.a
+        add_stability = 0.05
+    }
+}
+country_event = { # NYSE
+    id = bib.2
+    title = bib.2.t
+    desc = bib.2.d
+    picture = GFX_report_event_bib_nyse
+
+    is_triggered_only = yes
+
+    option = {
+        name = bib.2.a
+        add_stability = 0.05
+    }
+}
+country_event = { # Stock Market Crash
+    id = bib.3
+    title = bib.3.t
+	desc = bib.3.d
+	picture = GFX_report_event_crash
+    is_triggered_only = yes
+    trigger = { always = yes }
+    immediate = {
+    }
+
+    option = {
+        name = bib.3.a
+        remove_ideas = BIB_idea_stock_market
+        add_ideas = BIB_idea_market_crash
+		add_stability = -0.20
+        complete_national_focus = BIB_stock_market_crash
+    }
+}
+country_event = { # FTC
+    id = bib.4
+    title = bib.4.t
+    desc = bib.4.d
+    picture = GFX_report_event_bib_ftc
+
+    is_triggered_only = yes
+
+    option = {
+        name = bib.4.a
+        add_stability = 0.05
+    }
+}
+country_event = { # Market Stabilization
+    id = bib.5
+    title = bib.5.t
+    desc = bib.5.d
+    picture = GFX_report_event_bib_recovery
+
+    is_triggered_only = yes
+
+    option = {
+        name = bib.5.a
+        add_stability = 0.05
+		remove_ideas = BIB_idea_market_crash
+    }
+}
+country_event = { # Los Angeles
+    id = bib.6
+    title = bib.6.t
+    desc = bib.6.d
+    picture = GFX_report_event_bib_los_angeles
+
+    is_triggered_only = yes
+
+    option = {
+        name = bib.6.a
+    }
+}
+country_event = { # Miami
+    id = bib.7
+    title = bib.7.t
+    desc = bib.7.d
+    picture = GFX_report_event_bib_miami
+
+    is_triggered_only = yes
+
+    option = {
+        name = bib.7.a
+    }
+}
+country_event = { # Santa Monica
+    id = bib.8
+    title = bib.8.t
+    desc = bib.8.d
+    picture = GFX_report_event_bib_santa_monica
+
+    is_triggered_only = yes
+
+    option = {
+        name = bib.8.a
+		add_victory_points = { province = 2403 value = 5 }
+		set_province_name = { id = 2403 name = BIB_SANTA_MONICA }
+		add_victory_points = { province = 905 value = 5 }
+		set_province_name = { id = 905 name = BIB_PACIFIC_PALISADES }
+		add_victory_points = { province = 9627 value = 5 }
+		set_province_name = { id = 9627 name = BIB_MALIBU }
+    }
+}
+country_event = { # Compton
+    id = bib.9
+    title = bib.9.t
+    desc = bib.9.d
+    picture = GFX_report_event_bib_compton
+
+    is_triggered_only = yes
+
+    option = {
+        name = bib.9.a
+		add_victory_points = { province = 1999 value = 5 }
+		set_province_name = { id = 1999 name = BIB_DOWNTOWN_LA }
+		add_victory_points = { province = 2399 value = 5 }
+		set_province_name = { id = 2399 name = BIB_COMPTON }
+		add_victory_points = { province = 898 value = 5 }
+		set_province_name = { id = 898 name = BIB_LAKEWOOD }
+		add_victory_points = { province = 2401 value = 5 }
+		set_province_name = { id = 2401 name = BIB_MONTEBELLO }
+    }
+}
+country_event = { # Hollywood
+    id = bib.10
+    title = bib.10.t
+    desc = bib.10.d
+    picture = GFX_report_event_bib_hollywood
+
+    is_triggered_only = yes
+
+    option = {
+        name = bib.10.a
+		add_victory_points = { province = 2405 value = 5 }
+		set_province_name = { id = 2405 name = BIB_NORTH_HOLLYWOOD }
+		add_victory_points = { province = 4963 value = 5 }
+		set_province_name = { id = 4963 name = BIB_WOODLAND_HILLS }
+		add_victory_points = { province = 2406 value = 5 }
+		set_province_name = { id = 2406 name = BIB_THOUSAND_OAKS }
+		add_victory_points = { province = 1998 value = 5 }
+		set_province_name = { id = 1998 name = BIB_WEST_HOLLYWOOD }
+    }
+}
+country_event = { # Long Beach
+    id = bib.11
+    title = bib.11.t
+    desc = bib.11.d
+    picture = GFX_report_event_bib_long_beach
+
+    is_triggered_only = yes
+
+    option = {
+        name = bib.11.a
+		add_victory_points = { province = 2408 value = 5 }
+		set_province_name = { id = 2408 name = BIB_LONG_BEACH }
+		add_victory_points = { province = 892 value = 5 }
+		set_province_name = { id = 892 name = BIB_CYPRESS }
+    }
+}
+country_event = { # Orange County
+    id = bib.12
+    title = bib.12.t
+    desc = bib.12.d
+    picture = GFX_report_event_bib_orange_county
+
+    is_triggered_only = yes
+
+    option = {
+        name = bib.12.a
+		add_victory_points = { province = 2397 value = 5 }
+		set_province_name = { id = 2397 name = BIB_HUNTINGTON_BEACH }
+		add_victory_points = { province = 4966 value = 5 }
+		set_province_name = { id = 4966 name = BIB_IRVINE }
+		add_victory_points = { province = 2661 value = 5 }
+		set_province_name = { id = 2661 name = BIB_SANTA_ANA }
+		add_victory_points = { province = 2002 value = 5 }
+		set_province_name = { id = 2002 name = BIB_SAN_CLEMENTE }
+		add_victory_points = { province = 2407 value = 5 }
+		set_province_name = { id = 2407 name = BIB_ANAHEIM }
+    }
+}
+country_event = { # Pasadena
+    id = bib.13
+    title = bib.13.t
+    desc = bib.13.d
+    picture = GFX_report_event_bib_pasadena
+
+    is_triggered_only = yes
+
+    option = {
+        name = bib.13.a
+		add_victory_points = { province = 890 value = 5 }
+		set_province_name = { id = 890 name = BIB_PASADENA }
+		add_victory_points = { province = 2400 value = 5 }
+		set_province_name = { id = 2400 name = BIB_GLANDALE }
+		add_victory_points = { province = 907 value = 5 }
+		set_province_name = { id = 907 name = BIB_EL_MONTE }
+        591 = { set_state_name = BIB_ORANGE_COUNTY }
+    }
+}
+country_event = { # City of Angels
+    id = bib.14
+    title = bib.14.t
+    desc = bib.14.d
+    picture = GFX_report_event_bib_city_of_angels
+
+    is_triggered_only = yes
+
+    option = {
+        name = bib.14.a
+        set_province_name = { id = 2404 name = BIB_LOS_ANGELES }
+        350 = { set_state_name = BIB_LOS_ANGELES }
+        remove_ideas = BIB_idea_vastness_la
+    }
+}
+country_event = { # Vastness of Los Angeles
+    id = bib.15
+    title = bib.15.t
+    desc = bib.15.d
+    picture = GFX_report_event_bib_vastness
+
+    is_triggered_only = yes
+
+    option = {
+        name = bib.15.a
+        add_ideas = BIB_idea_vastness_la
+    }
+}
+country_event = { # Drain the Swamp
+    id = bib.16
+    title = bib.16.t
+    desc = bib.16.d
+    picture = GFX_report_event_bib_swamp
+
+    is_triggered_only = yes
+
+    option = {
+        name = bib.16.a
+        set_province_name = { id = 19862 name = BIB_SUNRISE }
+		add_victory_points = { province = 19862 value = 5 }
+        set_province_name = { id = 19872 name = BIB_BOCA_RATON }
+		add_victory_points = { province = 19872 value = 5 }
+        set_province_name = { id = 19883 name = BIB_WELLINGTON }
+		add_victory_points = { province = 19883 value = 5 }
+        add_ideas = BIB_idea_drain_the_swamp
+    }
+}
+country_event = { # North Miami
+    id = bib.17
+    title = bib.17.t
+    desc = bib.17.d
+    picture = GFX_report_event_bib_north_miami
+
+    is_triggered_only = yes
+
+    option = {
+        name = bib.17.a
+        set_province_name = { id = 19853 name = BIB_NORTH_MIAMI }
+		add_victory_points = { province = 19853 value = 5 }
+        set_province_name = { id = 19852 name = BIB_MIAMI_GARDENS }
+		add_victory_points = { province = 19852 value = 5 }
+        set_province_name = { id = 19849 name = BIB_HIALEAH }
+		add_victory_points = { province = 19849 value = 5 }
+    }
+}
+country_event = { # South Miami
+    id = bib.18
+    title = bib.18.t
+    desc = bib.18.d
+    picture = GFX_report_event_bib_south_miami
+
+    is_triggered_only = yes
+
+    option = {
+        name = bib.18.a
+        set_province_name = { id = 19844 name = BIB_KENDALL }
+		add_victory_points = { province = 19844 value = 5 }
+        set_province_name = { id = 19843 name = BIB_HOMESTEAD }
+		add_victory_points = { province = 19843 value = 5 }
+    }
+}
+country_event = { # Gold Coast
+    id = bib.19
+    title = bib.19.t
+    desc = bib.19.d
+    picture = GFX_report_event_bib_gold_coast
+
+    is_triggered_only = yes
+
+    option = {
+        name = bib.19.a
+        remove_ideas = BIB_idea_drain_the_swamp
+    }
+}
+country_event = { # Bay Area
+    id = bib.20
+    title = bib.20.t
+    desc = bib.20.d
+    picture = GFX_report_event_bib_bay_area
+
+    is_triggered_only = yes
+
+    option = {
+        name = bib.20.a
+    }
+}
+country_event = { # Hanging by a Thread
+    id = bib.21
+    title = bib.21.t
+    desc = bib.21.d
+    picture = GFX_report_event_bib_hanging
+
+    is_triggered_only = yes
+
+    option = {
+        name = bib.21.a
+        add_ideas = BIB_idea_collapsing_golden_gate
+        set_country_flag = collapsing_golden_gate
+    }
+}
+country_event = { # Expand Chinatown
+    id = bib.22
+    title = bib.22.t
+    desc = bib.22.d
+    picture = GFX_report_event_bib_chinatown
+
+    is_triggered_only = yes
+
+    option = {
+        name = bib.22.a
+        swap_ideas = {
+        remove_idea = BIB_idea_collapsing_golden_gate
+        add_idea = BIB_idea_rebuilding_golden_gate
+        }
+        clr_country_flag = collapsing_golden_gate
+    }
+    option = {
+        name = bib.22.b
+        set_province_name = { id = 2422 name = BIB_chinese_san_francisco }
+        swap_ideas = {
+        remove_idea = BIB_idea_collapsing_golden_gate
+        add_idea = BIB_idea_rebuilding_golden_gate
+        }
+        clr_country_flag = collapsing_golden_gate
+    }
+}
+country_event = { # North Bay
+    id = bib.23
+    title = bib.23.t
+    desc = bib.23.d
+    picture = GFX_report_event_bib_north_bay
+
+    is_triggered_only = yes
+
+    option = {
+        name = bib.23.a
+        set_province_name = { id = 9216 name = BIB_BENICIA }
+		add_victory_points = { province = 9216 value = 5 }
+        set_province_name = { id = 2299 name = BIB_BOLINAS }
+		add_victory_points = { province = 2299 value = 5 }
+        set_province_name = { id = 9214 name = BIB_NOVATO }
+		add_victory_points = { province = 9214 value = 5 }
+    }
+    option = {
+        name = bib.23.b
+        set_province_name = { id = 9216 name = BIB_BENICIA }
+		add_victory_points = { province = 9216 value = 5 }
+        set_province_name = { id = 2299 name = BIB_BOLINAS }
+		add_victory_points = { province = 2299 value = 5 }
+        set_province_name = { id = 9214 name = BIB_NOVATO }
+		add_victory_points = { province = 9214 value = 5 }
+        add_victory_points = { province = 9217 value = -10 }
+    }
+}
+country_event = { # South Bay
+    id = bib.24
+    title = bib.24.t
+    desc = bib.24.d
+    picture = GFX_report_event_bib_south_bay
+
+    is_triggered_only = yes
+
+    option = {
+        name = bib.24.a
+        set_province_name = { id = 5039 name = BIB_REDWOOD_CITY }
+		add_victory_points = { province = 5039 value = 5 }
+        set_province_name = { id = 2421 name = BIB_SUNNYVALE }
+		add_victory_points = { province = 2421 value = 5 }
+        set_province_name = { id = 2425 name = BIB_MILPITAS }
+		add_victory_points = { province = 2425 value = 5 }
+        set_province_name = { id = 4836 name = BIB_CAMPBELL }
+		add_victory_points = { province = 4836 value = 5 }
+    }
+}
+country_event = { # San Francisco Proper
+    id = bib.25
+    title = bib.25.t
+    desc = bib.25.d
+    picture = GFX_report_event_bib_san_francisco_proper
+
+    is_triggered_only = yes
+
+    option = {
+        name = bib.25.a
+        set_province_name = { id = 1041 name = BIB_SAUSALITO }
+		add_victory_points = { province = 1041 value = 5 }
+        set_province_name = { id = 1038 name = BIB_SOUTH_SAN_FRANCISCO }
+		add_victory_points = { province = 1038 value = 5 }
+    }
+}
+country_event = { # East Bay
+    id = bib.26
+    title = bib.26.t
+    desc = bib.26.d
+    picture = GFX_report_event_bib_east_bay
+
+    is_triggered_only = yes
+
+    option = {
+        name = bib.26.a
+        set_province_name = { id = 1047 name = BIB_OAKLAND }
+		add_victory_points = { province = 1047 value = 5 }
+        set_province_name = { id = 2440 name = BIB_RICHMOND }
+		add_victory_points = { province = 2440 value = 5 }
+        set_province_name = { id = 9221 name = BIB_MARTINEZ }
+		add_victory_points = { province = 9221 value = 5 }
+        set_province_name = { id = 4614 name = BIB_BAY_POINT }
+		add_victory_points = { province = 4614 value = 5 }
+        set_province_name = { id = 9209 name = BIB_HERCULES }
+		add_victory_points = { province = 9209 value = 5 }
+        set_province_name = { id = 9220 name = BIB_HAYWARD }
+		add_victory_points = { province = 9220 value = 5 }
+        set_province_name = { id = 2423 name = BIB_SAN_RAMON }
+		add_victory_points = { province = 2423 value = 5 }
+        set_province_name = { id = 2418 name = BIB_PLEASANTON }
+		add_victory_points = { province = 2418 value = 5 }
+    }
+}
+country_event = { # We Built This City
+    id = bib.27
+    title = bib.27.t
+    desc = bib.27.d
+    picture = GFX_report_event_bib_we_built_this_city
+
+    is_triggered_only = yes
+
+    option = {
+        name = bib.27.a
+        remove_ideas = BIB_idea_rebuilding_golden_gate
+    }
+}

@@ -1,0 +1,580 @@
+ideas = {
+    country = {
+    BIB_smithsonian = {
+        picture = smithsonian
+        allowed = {
+            always = yes
+        }
+        removal_cost = -1
+        available = {
+            always = yes
+        }
+        modifier = {
+            research_speed_factor = 0.05
+            trade_opinion_factor = 0.05
+        }
+    }
+    BIB_idea_stock_market = {
+        picture = stock_market
+        allowed = {
+            always = yes
+        }
+        removal_cost = -1
+        available = {
+            always = yes
+        }
+        modifier = {
+            consumer_goods_factor = -0.1
+            production_speed_buildings_factor = 0.05 
+            trade_opinion_factor = 0.05
+            industrial_capacity_factory = 0.03
+            industry_repair_factor = 0.03
+        }
+    }
+    BIB_idea_fema = {
+        picture = fema
+        allowed = {
+            always = yes
+        }
+        removal_cost = -1
+        available = {
+            always = yes
+        }
+        modifier = {
+            consumer_goods_factor = 0.01
+            monthly_population = 0.05
+        }
+    }
+    BIB_idea_market_crash = {
+        picture = market_crash
+        allowed = {
+            always = yes
+        }
+        removal_cost = -1
+        available = {
+            always = yes
+        }
+        modifier = {
+            consumer_goods_factor = 0.1
+            production_speed_buildings_factor = -0.05 
+            trade_opinion_factor = -0.05
+            industrial_capacity_factory = -0.03
+            industry_repair_factor = -0.03
+        }
+    }
+    BIB_idea_hhs = {
+        picture = hhs
+        allowed = {
+            always = yes
+        }
+        removal_cost = -1
+        available = {
+            always = yes
+        }
+        modifier = {
+            research_speed_factor = 0.05
+            monthly_population = 0.05
+        }
+    }
+    BIB_idea_nih = {
+        picture = nih
+        allowed = {
+            always = yes
+        }
+        removal_cost = -1
+        available = {
+            always = yes
+        }
+        modifier = {
+            research_speed_factor = 0.05
+        }
+    }
+    BIB_idea_cdc = {
+        picture = cdc
+        allowed = {
+            always = yes
+        }
+        removal_cost = -1
+        available = {
+            always = yes
+        }
+        modifier = {
+            monthly_population = 0.05
+        }
+    }
+    BIB_idea_cfpb = {
+        picture = cfpb
+        allowed = {
+            always = yes
+        }
+        removal_cost = -1
+        available = {
+            always = yes
+        }
+        modifier = {
+            production_factory_efficiency_gain_factor = 0.05
+        }
+    }
+    BIB_idea_fdic = {
+        picture = fdic
+        allowed = {
+            always = yes
+        }
+        removal_cost = -1
+        available = {
+            always = yes
+        }
+        modifier = {
+            production_factory_efficiency_gain_factor = 0.05
+        }
+    }
+    BIB_idea_sec = {
+        picture = sec
+        allowed = {
+            always = yes
+        }
+        removal_cost = -1
+        available = {
+            always = yes
+        }
+        modifier = {
+            production_factory_max_efficiency_factor = 0.05
+        }
+    }
+    BIB_idea_cftc = {
+        picture = cftc
+        allowed = {
+            always = yes
+        }
+        removal_cost = -1
+        available = {
+            always = yes
+        }
+        modifier = {
+            production_factory_max_efficiency_factor = 0.05
+        }
+    }
+    BIB_idea_fsoc = {
+        picture = fsoc
+        allowed = {
+            always = yes
+        }
+        removal_cost = -1
+        available = {
+            always = yes
+        }
+        modifier = {
+            production_factory_max_efficiency_factor = 0.10
+            production_factory_efficiency_gain_factor = 0.10
+        }
+    }
+    BIB_idea_new_american_financial_system = {
+        picture = new_american_financial_system
+        allowed = {
+            always = yes
+        }
+        removal_cost = -1
+        available = {
+            always = yes
+        }
+        modifier = {
+            consumer_goods_factor = -0.1
+            production_speed_buildings_factor = 0.05 
+            trade_opinion_factor = 0.05
+            industrial_capacity_factory = 0.05
+            industry_repair_factor = 0.05
+        }
+    }
+    BIB_idea_radstorm_prediction = {
+        picture = radstorm
+        allowed = {
+            always = yes
+        }
+        removal_cost = -1
+        available = {
+            always = yes
+        }
+        modifier = {
+            monthly_population = 0.05
+        }
+    }
+    BIB_idea_library_of_congress = {
+        picture = library_of_congress
+        allowed = {
+            always = yes
+        }
+        removal_cost = -1
+        available = {
+            always = yes
+        }
+        modifier = {
+            research_speed_factor = 0.05
+        }
+    }
+    BIB_idea_digital_archives = {
+        picture = digital_archives
+        allowed = {
+            always = yes
+        }
+        removal_cost = -1
+        available = {
+            always = yes
+        }
+        modifier = {
+            research_speed_factor = 0.10
+            trade_opinion_factor = 0.05
+        }
+    }
+    BIB_idea_ocean_cleanup = {
+        picture = digital_archives
+        allowed = {
+            always = yes
+        }
+        removal_cost = -1
+        available = {
+            always = yes
+        }
+        modifier = {
+            monthly_population = 0.10
+            consumer_goods_factor = 0.05
+        }
+    }
+    BIB_idea_rural_electrification = {
+        picture = rural_electrification
+        allowed = {
+            always = yes
+        }
+        removal_cost = -1
+        available = {
+            always = yes
+        }
+        modifier = {
+            production_lack_of_resource_penalty_factor = -0.1
+        }
+    }
+    BIB_idea_land_reorganization = {
+        picture = land_reorganization
+        allowed = {
+            always = yes
+        }
+        removal_cost = -1
+        available = {
+            always = yes
+        }
+        modifier = {
+            local_resources_factor = 0.1
+        }
+    }
+    BIB_idea_comm_infrastructure = {
+        picture = comm_infrastructure
+        allowed = {
+            always = yes
+        }
+        removal_cost = -1
+        available = {
+            always = yes
+        }
+        modifier = {
+            army_morale_factor = 0.05
+            command_abilities_cost_factor = -0.1
+            political_power_factor = 0.1
+        }
+    }
+    BIB_idea_pharma_innovation = {
+        picture = pharma_innovation
+        allowed = {
+            always = yes
+        }
+        removal_cost = -1
+        available = {
+            always = yes
+        }
+        modifier = {
+            research_speed_factor = 0.05
+        }
+    }
+    BIB_idea_private_care = {
+        picture = private_care
+        allowed = {
+            always = yes
+        }
+        removal_cost = -1
+        available = {
+            always = yes
+        }
+        modifier = {
+            consumer_goods_factor = -0.05
+            production_factory_efficiency_gain_factor = 0.05
+        }
+    }
+    BIB_idea_public_option = {
+        picture = public_option
+        allowed = {
+            always = yes
+        }
+        removal_cost = -1
+        available = {
+            always = yes
+        }
+        modifier = {
+            consumer_goods_factor = 0.10
+            monthly_population = 0.10
+            production_factory_max_efficiency_factor = 0.05
+        }
+    }
+    BIB_idea_corporate_clinics = {
+        picture = corporate_clinics
+        allowed = {
+            always = yes
+        }
+        removal_cost = -1
+        available = {
+            always = yes
+        }
+        modifier = {
+            consumer_goods_factor = -0.05
+        }
+    }
+    BIB_idea_health_right = {
+        picture = health_right
+        allowed = {
+            always = yes
+        }
+        removal_cost = -1
+        available = {
+            always = yes
+        }
+        modifier = {
+            experience_loss_factor = -0.1
+            attrition = -0.1
+        }
+    }
+    BIB_idea_universal_coverage = {
+        picture = universal_coverage
+        allowed = {
+            always = yes
+        }
+        removal_cost = -1
+        available = {
+            always = yes
+        }
+        modifier = {
+            experience_loss_factor = -0.1
+            attrition = -0.1
+            consumer_goods_factor = 0.10
+            monthly_population = 0.20
+            production_factory_max_efficiency_factor = 0.05
+            offensive_war_stability_factor = -0.2
+        }
+    }
+    BIB_idea_competitive_health = {
+        picture = competitive_health
+        allowed = {
+            always = yes
+        }
+        removal_cost = -1
+        available = {
+            always = yes
+        }
+        modifier = {
+            consumer_goods_factor = -0.10
+            production_factory_efficiency_gain_factor = 0.05
+            research_speed_factor = 0.10
+            monthly_population = 0.05
+        }
+    }
+    BIB_idea_integrate_followers = {
+        picture = integrate_followers
+        allowed = {
+            always = yes
+        }
+        removal_cost = -1
+        available = {
+            always = yes
+        }
+        modifier = {
+            offensive_war_stability_factor = -0.2
+            monthly_population = 0.05
+        }
+    }
+    BIB_idea_vastness_la = {
+        picture = vastness_la
+        allowed = {
+            always = yes
+        }
+        removal_cost = -1
+        available = {
+            always = yes
+        }
+        modifier = {
+            consumer_goods_factor = 0.15
+            production_speed_buildings_factor = -0.2
+            civilian_factory_use = 15
+            production_factory_efficiency_gain_factor = -0.2
+        }
+    }
+    BIB_idea_city_of_angels = {
+        picture = city_of_angels
+        allowed = {
+            always = yes
+        }
+        removal_cost = -1
+        available = {
+            always = yes
+        }
+        modifier = {
+            trade_opinion_factor = 0.05
+            stability_factor = 0.03
+        }
+    }
+    BIB_idea_drain_the_swamp = {
+        picture = drain_the_swamp
+        allowed = {
+            always = yes
+        }
+        removal_cost = -1
+        available = {
+            always = yes
+        }
+        modifier = {
+            consumer_goods_factor = 0.15
+            production_speed_buildings_factor = -0.2
+            civilian_factory_use = 15
+            production_factory_efficiency_gain_factor = -0.2
+        }
+    }
+    BIB_idea_gold_coast = {
+        picture = gold_coast
+        allowed = {
+            always = yes
+        }
+        removal_cost = -1
+        available = {
+            always = yes
+        }
+        modifier = {
+            consumer_goods_factor = -0.05
+            stability_factor = 0.05
+        }
+    }
+    BIB_idea_collapsing_golden_gate = {
+        picture = collapsing_golden_gate
+        allowed = {
+            always = yes
+        }
+        removal_cost = -1
+        available = {
+            always = yes
+        }
+        modifier = {
+            consumer_goods_factor = 0.15
+            production_speed_buildings_factor = -0.2
+            civilian_factory_use = 15
+            production_factory_efficiency_gain_factor = -0.2
+            research_speed_factor = -0.20
+        }
+    }
+    BIB_idea_rebuilding_golden_gate = {
+        picture = rebuilding_golden_gate
+        allowed = {
+            always = yes
+        }
+        removal_cost = -1
+        available = {
+            always = yes
+        }
+        modifier = {
+            consumer_goods_factor = 0.15
+            production_speed_buildings_factor = -0.2
+            civilian_factory_use = 15
+            production_factory_efficiency_gain_factor = -0.2
+            research_speed_factor = -0.05
+        }
+    }
+    BIB_idea_efficient_market_economy = {
+        picture = efficient_market_economy
+        allowed = {
+            always = yes
+        }
+        removal_cost = -1
+        available = {
+            always = yes
+        }
+        modifier = {
+            local_resources_factor = 0.10
+            monthly_population = -0.05
+            consumer_goods_factor = -0.22
+            line_change_production_efficiency_factor = 0.15
+            production_speed_buildings_factor = 0.15
+            production_factory_max_efficiency_factor = 0.10
+            production_factory_efficiency_gain_factor = 0.15
+            production_factory_start_efficiency_factor = 0.15
+            research_speed_factor = 0.20
+            industrial_capacity_factory = 0.20
+            trade_opinion_factor = 0.15
+        }
+    }
+    BIB_idea_free_and_fair_economy = {
+        picture = free_and_fair_economy
+        allowed = {
+            always = yes
+        }
+        removal_cost = -1
+        available = {
+            always = yes
+        }
+        modifier = {
+            monthly_population = 0.20
+            consumer_goods_factor = -0.20
+            line_change_production_efficiency_factor = 0.10
+            production_speed_buildings_factor = 0.10
+            production_factory_efficiency_gain_factor = 0.20
+            production_factory_start_efficiency_factor = 0.15
+            research_speed_factor = 0.20
+            industrial_capacity_factory = 0.10
+        }
+    }
+    BIB_idea_union_led_economy = {
+        picture = union_led_economy
+        allowed = {
+            always = yes
+        }
+        removal_cost = -1
+        available = {
+            always = yes
+        }
+        modifier = {
+            local_resources_factor = 0.15
+            monthly_population = 0.20
+            consumer_goods_factor = -0.18
+            line_change_production_efficiency_factor = 0.10
+            production_speed_buildings_factor = 0.15
+            production_factory_max_efficiency_factor = 0.10
+            production_factory_efficiency_gain_factor = 0.30
+            production_factory_start_efficiency_factor = 0.15
+        }
+    }
+    BIB_idea_digital_economic_planning = {
+        picture = digital_economic_planning
+        allowed = {
+            always = yes
+        }
+        removal_cost = -1
+        available = {
+            always = yes
+        }
+        modifier = {
+            army_speed_factor = 0.10
+            local_resources_factor = 0.20
+            monthly_population = 0.40
+            consumer_goods_factor = 0.02
+            line_change_production_efficiency_factor = 0.05
+            production_speed_buildings_factor = 0.15
+            production_factory_max_efficiency_factor = 0.10
+            production_factory_efficiency_gain_factor = 0.15
+            production_factory_start_efficiency_factor = 0.05
+            production_lack_of_resource_penalty_factor = -0.10
+        }
+    }
+}
+}

@@ -1,0 +1,110 @@
+spriteTypes = {
+spriteType = {
+	name = "GFX_report_event_crash"  
+	texturefile = "gfx/event_pictures/report_crash.dds"
+}
+spriteType = {
+	name = "GFX_report_event_bib_los_angeles"  
+	texturefile = "gfx/event_pictures/report_bib_los_angeles.dds"
+}
+spriteType = {
+	name = "GFX_report_event_bib_recovery"  
+	texturefile = "gfx/event_pictures/report_bib_recovery.dds"
+}
+spriteType = {
+	name = "GFX_report_event_bib_miami"  
+	texturefile = "gfx/event_pictures/report_bib_miami.dds"
+}
+spriteType = {
+	name = "GFX_report_event_bib_santa_monica"  
+	texturefile = "gfx/event_pictures/report_bib_santa_monica.dds"
+}
+spriteType = {
+	name = "GFX_report_event_bib_compton"  
+	texturefile = "gfx/event_pictures/report_bib_compton.dds"
+}
+spriteType = {
+	name = "GFX_report_event_bib_hollywood"  
+	texturefile = "gfx/event_pictures/report_bib_hollywood.dds"
+}
+spriteType = {
+	name = "GFX_report_event_bib_long_beach"  
+	texturefile = "gfx/event_pictures/report_bib_long_beach.dds"
+}
+spriteType = {
+	name = "GFX_report_event_bib_orange_county"  
+	texturefile = "gfx/event_pictures/report_bib_orange_county.dds"
+}
+spriteType = {
+	name = "GFX_report_event_bib_pasadena"  
+	texturefile = "gfx/event_pictures/report_bib_pasadena.dds"
+}
+spriteType = {
+	name = "GFX_report_event_bib_city_of_angels"  
+	texturefile = "gfx/event_pictures/report_bib_city_of_angels.dds"
+}
+spriteType = {
+	name = "GFX_report_event_bib_vastness"  
+	texturefile = "gfx/event_pictures/report_bib_vastness.dds"
+}
+spriteType = {
+	name = "GFX_report_event_bib_swamp"  
+	texturefile = "gfx/event_pictures/report_bib_swamp.dds"
+}
+spriteType = {
+	name = "GFX_report_event_bib_north_miami"  
+	texturefile = "gfx/event_pictures/report_bib_north_miami.dds"
+}
+spriteType = {
+	name = "GFX_report_event_bib_south_miami"  
+	texturefile = "gfx/event_pictures/report_bib_south_miami.dds"
+}
+spriteType = {
+	name = "GFX_report_event_bib_gold_coast"  
+	texturefile = "gfx/event_pictures/report_bib_gold_coast.dds"
+}
+spriteType = {
+	name = "GFX_report_event_bib_epa"  
+	texturefile = "gfx/event_pictures/report_bib_epa.dds"
+}
+spriteType = {
+	name = "GFX_report_event_bib_nyse"  
+	texturefile = "gfx/event_pictures/report_bib_nyse.dds"
+}
+spriteType = {
+	name = "GFX_report_event_bib_ftc"  
+	texturefile = "gfx/event_pictures/report_bib_ftc.dds"
+}
+spriteType = {
+	name = "GFX_report_event_bib_bay_area"  
+	texturefile = "gfx/event_pictures/report_bib_bay_area.dds"
+}
+spriteType = {
+	name = "GFX_report_event_bib_hanging"  
+	texturefile = "gfx/event_pictures/report_bib_hanging.dds"
+}
+spriteType = {
+	name = "GFX_report_event_bib_chinatown"  
+	texturefile = "gfx/event_pictures/report_bib_chinatown.dds"
+}
+spriteType = {
+	name = "GFX_report_event_bib_north_bay"  
+	texturefile = "gfx/event_pictures/report_bib_north_bay.dds"
+}
+spriteType = {
+	name = "GFX_report_event_bib_south_bay"  
+	texturefile = "gfx/event_pictures/report_bib_south_bay.dds"
+}
+spriteType = {
+	name = "GFX_report_event_bib_san_francisco_proper"  
+	texturefile = "gfx/event_pictures/report_bib_san_francisco_proper.dds"
+}
+spriteType = {
+	name = "GFX_report_event_bib_east_bay"  
+	texturefile = "gfx/event_pictures/report_bib_east_bay.dds"
+}
+spriteType = {
+	name = "GFX_report_event_bib_we_built_this_city"  
+	texturefile = "gfx/event_pictures/report_bib_we_built_this_city.dds"
+}
+}

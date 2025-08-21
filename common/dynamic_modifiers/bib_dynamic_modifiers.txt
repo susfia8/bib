@@ -1,0 +1,38 @@
+bib_state_led = {
+	icon = GFX_idea_union_led_economy
+	
+		consumer_goods_factor = bib_consumer
+		local_resources_factor = bib_resources
+		monthly_population = bib_population
+		production_factory_efficiency_gain_factor = bib_efficiency_gain
+		production_factory_max_efficiency_factor = bib_efficiency_cap
+		production_factory_start_efficiency_factor = bib_efficiency_base
+		line_change_production_efficiency_factor = bib_efficiency_retention
+		production_lack_of_resource_penalty_factor = bib_lack_penalty
+		production_speed_buildings_factor = bib_building_speed
+		industrial_capacity_factory = bib_military_output
+		army_speed_factor = bib_army_speed
+		research_speed_factor = bib_research_speed
+}
+bib_private_led = {
+	icon = GFX_idea_free_and_fair_economy
+	
+		consumer_goods_factor = bib_consumer
+		local_resources_factor = bib_resources
+		monthly_population = bib_population
+		production_factory_efficiency_gain_factor = bib_efficiency_gain
+		production_factory_max_efficiency_factor = bib_efficiency_cap
+		production_factory_start_efficiency_factor = bib_efficiency_base
+		line_change_production_efficiency_factor = bib_efficiency_retention
+		production_lack_of_resource_penalty_factor = bib_lack_penalty
+		production_speed_buildings_factor = bib_building_speed
+		industrial_capacity_factory = bib_military_output
+		army_speed_factor = bib_army_speed
+		research_speed_factor = bib_research_speed
+		trade_opinion_factor = bib_trade_opinion
+}
+bib_universities = {
+	icon = GFX_idea_enc_fort_army
+
+		research_speed_factor = uni_research_speed
+}

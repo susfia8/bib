@@ -1,0 +1,154 @@
+ENCuniversity = {
+
+    University_of_Neveda_Reno = {
+	icon = GFX_goal_generic_focus
+	visible = { owns_state = 285 }
+	available = {
+	owns_state = 285
+    has_completed_focus = enc_department_of_education
+    }
+	days_remove = 1
+	custom_cost_trigger = {
+            set_temp_variable = { temp_cap_cost = 1}
+            check_variable = {
+                caps_number_display > temp_cap_cost
+            }
+        }
+		custom_cost_text = "caps_decisions_cost_text"
+		complete_effect = {
+			set_temp_variable = { caps_to_add = -1 }
+			add_caps = yes
+			}
+	fire_only_once = yes
+	remove_effect = {
+		country_event = enc_university.2
+		}
+	}
+
+    University_of_Neveda_Vegas = {
+	icon = GFX_goal_generic_focus
+	visible = { owns_state = 613 }
+	available = {
+	owns_state = 613
+    has_completed_focus = enc_department_of_education
+    }
+	days_remove = 150
+	custom_cost_trigger = {
+            set_temp_variable = { temp_cap_cost = 100}
+            check_variable = {
+                caps_number_display > temp_cap_cost
+            }
+        }
+		custom_cost_text = "caps_decisions_cost_text"
+		complete_effect = {
+			set_temp_variable = { caps_to_add = -100 }
+			add_caps = yes
+			}
+	fire_only_once = yes
+	remove_effect = {
+		country_event = enc_university.3
+		}
+	}
+
+    University_of_Utah_Salt_Lake = {
+	icon = GFX_goal_generic_focus
+	visible = { owns_state = 551 }
+	available = {
+	owns_state = 551
+    has_completed_focus = enc_department_of_education
+    }
+	days_remove = 150
+	custom_cost_trigger = {
+            set_temp_variable = { temp_cap_cost = 70}
+            check_variable = {
+                caps_number_display > temp_cap_cost
+            }
+        }
+		custom_cost_text = "caps_decisions_cost_text"
+		complete_effect = {
+			set_temp_variable = { caps_to_add = -70 }
+			add_caps = yes
+			}
+	fire_only_once = yes
+	remove_effect = {
+		country_event = enc_university.4
+		}
+	}	
+	
+
+    Southern_Utah_University = {
+	icon = GFX_goal_generic_focus
+	visible = { owns_state = 204 }
+	available = {
+	owns_state = 204
+    has_completed_focus = enc_department_of_education
+    }
+	days_remove = 150
+	custom_cost_trigger = {
+            set_temp_variable = { temp_cap_cost = 120}
+            check_variable = {
+                caps_number_display > temp_cap_cost
+            }
+        }
+		custom_cost_text = "caps_decisions_cost_text"
+		complete_effect = {
+			set_temp_variable = { caps_to_add = -120 }
+			add_caps = yes
+			}
+	fire_only_once = yes
+	remove_effect = {
+		country_event = enc_university.5
+		}
+	}
+
+	Oregon_State_University = {
+	icon = GFX_goal_generic_focus
+	visible = { owns_state = 186 }
+	available = {
+	owns_state = 186
+    has_completed_focus = enc_department_of_education
+    }
+	days_remove = 150
+	custom_cost_trigger = {
+            set_temp_variable = { temp_cap_cost = 120}
+            check_variable = {
+                caps_number_display > temp_cap_cost
+            }
+        }
+		custom_cost_text = "caps_decisions_cost_text"
+		complete_effect = {
+			set_temp_variable = { caps_to_add = -120 }
+			add_caps = yes
+			}
+	fire_only_once = yes
+	remove_effect = {
+		country_event = enc_university.6
+		}
+	}
+
+	South_Oregon_University = {
+	icon = GFX_goal_generic_focus
+	visible = { owns_state = 96 }
+	available = {
+	owns_state = 96
+    has_completed_focus = enc_department_of_education
+    }
+	days_remove = 150
+	custom_cost_trigger = {
+            set_temp_variable = { temp_cap_cost = 50}
+            check_variable = {
+                caps_number_display > temp_cap_cost
+            }
+        }
+		custom_cost_text = "caps_decisions_cost_text"
+		complete_effect = {
+			set_temp_variable = { caps_to_add = -50 }
+			add_caps = yes
+			}
+	fire_only_once = yes
+	remove_effect = {
+		country_event = enc_university.7
+		}
+	}	
+
+}
