@@ -21,11 +21,41 @@ Oregon_State_University_desc: "Oregon State University was once held by the Ward
 South_Oregon_University: "Restore South Oregon University"
 South_Oregon_University_desc: "Southern Oregon University was one of the luckier institutions, much like most of the universities in California. Arroyo had mostly restored it, though not for educational purposes, which makes our job much easier—and much cheaper. However, work still needs to be done to transform it into a true center of knowledge."
 
-University_UCLA: "Restore University of California, Los Angeles"
+University_UCLA: "Restore the University of California, Los Angeles"
 University_UCLA_desc: "."
 
-University_berkeley: "Restore University of California, Berkeley"
+University_berkeley: "Restore the University of California, Berkeley"
 University_berkeley_desc: "."
 
-University_uc_san_diego: "Restore University of California, San Diego"
+University_uc_san_diego: "Restore the University of California, San Diego"
 University_uc_san_diego_desc: "."
+
+University_washington: "Restore the University of Washington"
+University_washington_desc: "."
+
+University_idaho: "Restore the University of Idaho"
+University_idaho_desc: "."
+
+University_arizona_state: "Restore Arizona State University"
+University_arizona_state_desc: "."
+
+University_arizona: "Restore the University of Arizona"
+University_arizona_desc: "."
+
+University_northern_arizona: "Restore Northern Arizona University"
+University_northern_arizona_desc: "."
+
+University_montana: "Restore the University of Montana"
+University_montana_desc: "."
+
+University_montana_state: "Restore Montana State University"
+University_montana_state_desc: "."
+
+University_wyoming: "Restore the University of Wyoming"
+University_wyoming_desc: "."
+
+University_colorado_boulder: "Restore the University of Colorado Boulder"
+University_colorado_boulder_desc: "."
+
+University_colorado_state: "Restore Colorado State University"
+University_colorado_state_desc: "."

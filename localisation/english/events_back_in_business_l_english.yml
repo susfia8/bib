@@ -165,3 +165,55 @@ enc_university.9.a: "."
 enc_university.10.t: "University of California, San Diego restored!"
 enc_university.10.d: "."
 enc_university.10.a: "."
+
+### Washington
+
+enc_university.11.t: "University of Washington restored!"
+enc_university.11.d: "."
+enc_university.11.a: "."
+
+### Idaho
+
+enc_university.12.t: "University of Idaho restored!"
+enc_university.12.d: "."
+enc_university.12.a: "."
+
+### Arizona
+
+enc_university.13.t: "Arizona State University restored!"
+enc_university.13.d: "."
+enc_university.13.a: "."
+
+enc_university.14.t: "University of Arizona restored!"
+enc_university.14.d: "."
+enc_university.14.a: "."
+
+enc_university.15.t: "Northern Arizona University restored!"
+enc_university.15.d: "."
+enc_university.15.a: "."
+
+### Montana
+
+enc_university.16.t: "University of Montana restored!"
+enc_university.16.d: "."
+enc_university.16.a: "."
+
+enc_university.17.t: "Montana State University restored!"
+enc_university.17.d: "."
+enc_university.17.a: "."
+
+### Wyoming
+
+enc_university.18.t: "University of Wyoming restored!"
+enc_university.18.d: "."
+enc_university.18.a: "."
+
+### Colorado
+
+enc_university.19.t: "University of Colorado Boulder restored!"
+enc_university.19.d: "."
+enc_university.19.a: "."
+
+enc_university.20.t: "Colorado State University restored!"
+enc_university.20.d: "."
+enc_university.20.a: "."
