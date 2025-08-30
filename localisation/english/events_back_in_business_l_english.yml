@@ -151,3 +151,17 @@ enc_university.6.a: "I hate cannibals.."
 enc_university.7.t: "Southern Oregon University, Ashland restored!"
 enc_university.7.d: "Arroyo is quite the developed nation, having already mostly restored Southern Oregon University. Although it was not initially intended for education, the facility operated for many years before being closed down due to a radiation leak. It was a hefty price to fix, but one we could afford. After making SOU habitable, we repaired everything that needed it and reopened it to the public. One of the university’s top programs is psychology, which will be useful for the future of this nation as people cope with their past in the harsh wasteland."
 enc_university.7.a: "Atleast there isn't any cannibals here.."
+
+### California
+
+enc_university.8.t: "University of California, Los Angeles restored!"
+enc_university.8.d: "."
+enc_university.8.a: "."
+
+enc_university.9.t: "University of California, Berkeley restored!"
+enc_university.9.d: "."
+enc_university.9.a: "."
+
+enc_university.10.t: "University of California, San Diego restored!"
+enc_university.10.d: "."
+enc_university.10.a: "."

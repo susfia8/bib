@@ -3,7 +3,7 @@
 ENCuniversity: "University Projects"
 ENCuniversity_desc: "With the restoration of the Department of Education, efforts to begin restoring pre-war universities that once served as hubs of knowledge have commenced. Although it requires significant resources and holds a hefty price, the investment will undoubtedly pay off in the long run."
 
-University_of_Neveda_Reno: "Restore the University of Neveda, Reno"
+University_of_Neveda_Reno: "Restore the University of Nevada, Reno"
 University_of_Neveda_Reno_desc: "The University of Nevada, Reno was one of the largest universities in the state of Nevada before the Great War. Although the university's buildings were repurposed over the decades, the university still stands and is able to be restored to its full glory."
 
 University_of_Neveda_Vegas: "Restore the University of Neveda, Vegas"
@@ -20,3 +20,12 @@ Oregon_State_University_desc: "Oregon State University was once held by the Ward
 
 South_Oregon_University: "Restore South Oregon University"
 South_Oregon_University_desc: "Southern Oregon University was one of the luckier institutions, much like most of the universities in California. Arroyo had mostly restored it, though not for educational purposes, which makes our job much easier—and much cheaper. However, work still needs to be done to transform it into a true center of knowledge."
+
+University_UCLA: "Restore University of California, Los Angeles"
+University_UCLA_desc: "."
+
+University_berkeley: "Restore University of California, Berkeley"
+University_berkeley_desc: "."
+
+University_uc_san_diego: "Restore University of California, San Diego"
+University_uc_san_diego_desc: "."

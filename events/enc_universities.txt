@@ -13,8 +13,7 @@ country_event = {
 			add_dynamic_modifier = { modifier = bib_universities }
 		}
 	}
-	
-	
+
 country_event = {
 	id = enc_university.2
 	title = enc_university.2.t
@@ -22,14 +21,12 @@ country_event = {
 	picture = GFX_event_enc_new_reno_initiative
 	is_triggered_only = yes
 	fire_only_once = yes
-
 		option = { 
 			name = enc_university.2.a
 			custom_effect_tooltip = enc_university.2.a.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
-
 
 country_event = {
 	id = enc_university.3
@@ -38,15 +35,11 @@ country_event = {
 	picture = GFX_event_lucky_38
 	is_triggered_only = yes
 	fire_only_once = yes
-
 		option = { 
 			name = enc_university.3.a
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
-	}	
-	
-	
-
+	}
 
 country_event = {
 	id = enc_university.4
@@ -55,14 +48,12 @@ country_event = {
 	picture = GFX_event_NCN_new_canaan
 	is_triggered_only = yes
 	fire_only_once = yes
-
 		option = { 
 			name = enc_university.4.a
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
-	
-	
+
 country_event = {
 	id = enc_university.5
 	title = enc_university.5.t
@@ -70,14 +61,12 @@ country_event = {
 	picture = GFX_event_meat_vendor
 	is_triggered_only = yes
 	fire_only_once = yes
-
 		option = { 
 			name = enc_university.5.a
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
-	}	
-	
-	
+	}
+
 country_event = {
 	id = enc_university.6
 	title = enc_university.6.t
@@ -85,14 +74,12 @@ country_event = {
 	picture = GFX_event_ash_barrens
 	is_triggered_only = yes
 	fire_only_once = yes
-
 		option = { 
 			name = enc_university.6.a
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
-	}	
-	
-	
+	}
+
 country_event = {
 	id = enc_university.7
 	title = enc_university.7.t
@@ -100,9 +87,32 @@ country_event = {
 	picture = GFX_event_clifftop_retreat
 	is_triggered_only = yes
 	fire_only_once = yes
-
 		option = { 
 			name = enc_university.7.a
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
-	}		
+	}
+country_event = {
+	id = enc_university.8
+	title = enc_university.8.t
+	desc = enc_university.8.d
+	picture = GFX_event_enc_US_embassy
+	is_triggered_only = yes
+	fire_only_once = yes
+		option = { 
+			name = enc_university.8.a
+			add_to_variable = { uni_research_speed = 0.005 }
+		}
+	}
+country_event = {
+	id = enc_university.9
+	title = enc_university.9.t
+	desc = enc_university.9.d
+	picture = GFX_event_enc_US_embassy
+	is_triggered_only = yes
+	fire_only_once = yes
+		option = { 
+			name = enc_university.9.a
+			add_to_variable = { uni_research_speed = 0.005 }
+		}
+	}

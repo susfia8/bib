@@ -1,11 +1,36 @@
 ENCuniversity = {
+#  TEMPLATE
+#	TAG = {
+#	icon = GFX_goal_generic_focus
+#	visible = { owns_state = PUT_STATE_ID_HERE }
+#	available = {
+#	owns_state = PUT_STATE_ID_HERE
+#   has_completed_focus = BIB_american_university_system
+#    }
+#	days_remove = 150
+#	custom_cost_trigger = {
+#            set_temp_variable = { temp_cap_cost = 50}
+#            check_variable = {
+#                caps_number_display > temp_cap_cost
+#            }
+#        }
+#		custom_cost_text = "caps_decisions_cost_text"
+#		complete_effect = {
+#			set_temp_variable = { caps_to_add = -50 }
+#			add_caps = yes
+#			}
+#	fire_only_once = yes
+#	remove_effect = {
+#		country_event = enc_university.X
+#		}
+#	}
 
     University_of_Neveda_Reno = {
 	icon = GFX_goal_generic_focus
 	visible = { owns_state = 285 }
 	available = {
 	owns_state = 285
-    has_completed_focus = enc_department_of_education
+    has_completed_focus = BIB_american_university_system
     }
 	days_remove = 1
 	custom_cost_trigger = {
@@ -30,7 +55,7 @@ ENCuniversity = {
 	visible = { owns_state = 613 }
 	available = {
 	owns_state = 613
-    has_completed_focus = enc_department_of_education
+    has_completed_focus = BIB_american_university_system
     }
 	days_remove = 150
 	custom_cost_trigger = {
@@ -55,7 +80,7 @@ ENCuniversity = {
 	visible = { owns_state = 551 }
 	available = {
 	owns_state = 551
-    has_completed_focus = enc_department_of_education
+    has_completed_focus = BIB_american_university_system
     }
 	days_remove = 150
 	custom_cost_trigger = {
@@ -81,7 +106,7 @@ ENCuniversity = {
 	visible = { owns_state = 204 }
 	available = {
 	owns_state = 204
-    has_completed_focus = enc_department_of_education
+    has_completed_focus = BIB_american_university_system
     }
 	days_remove = 150
 	custom_cost_trigger = {
@@ -106,7 +131,7 @@ ENCuniversity = {
 	visible = { owns_state = 186 }
 	available = {
 	owns_state = 186
-    has_completed_focus = enc_department_of_education
+    has_completed_focus = BIB_american_university_system
     }
 	days_remove = 150
 	custom_cost_trigger = {
@@ -131,7 +156,7 @@ ENCuniversity = {
 	visible = { owns_state = 96 }
 	available = {
 	owns_state = 96
-    has_completed_focus = enc_department_of_education
+    has_completed_focus = BIB_american_university_system
     }
 	days_remove = 150
 	custom_cost_trigger = {
@@ -149,6 +174,77 @@ ENCuniversity = {
 	remove_effect = {
 		country_event = enc_university.7
 		}
-	}	
-
+	}
+	University_UCLA = {
+	icon = GFX_goal_generic_focus
+	visible = { owns_state = 350 }
+	available = {
+	owns_state = 350
+    has_completed_focus = BIB_american_university_system
+    }
+	days_remove = 150
+	custom_cost_trigger = {
+            set_temp_variable = { temp_cap_cost = 50}
+            check_variable = {
+                caps_number_display > temp_cap_cost
+            }
+        }
+		custom_cost_text = "caps_decisions_cost_text"
+		complete_effect = {
+			set_temp_variable = { caps_to_add = -50 }
+			add_caps = yes
+			}
+	fire_only_once = yes
+	remove_effect = {
+		country_event = enc_university.8
+		}
+	}
+	University_berkeley = {
+	icon = GFX_goal_generic_focus
+	visible = { owns_state = 473 }
+	available = {
+	owns_state = 473
+    has_completed_focus = BIB_american_university_system
+    }
+	days_remove = 150
+	custom_cost_trigger = {
+            set_temp_variable = { temp_cap_cost = 50}
+            check_variable = {
+                caps_number_display > temp_cap_cost
+            }
+        }
+		custom_cost_text = "caps_decisions_cost_text"
+		complete_effect = {
+			set_temp_variable = { caps_to_add = -50 }
+			add_caps = yes
+			}
+	fire_only_once = yes
+	remove_effect = {
+		country_event = enc_university.9
+		}
+	}
+	University_uc_san_diego = {
+	icon = GFX_goal_generic_focus
+	visible = { owns_state = 63 }
+	available = {
+	owns_state = 63
+    has_completed_focus = BIB_american_university_system
+    }
+	days_remove = 150
+	custom_cost_trigger = {
+            set_temp_variable = { temp_cap_cost = 50}
+            check_variable = {
+                caps_number_display > temp_cap_cost
+            }
+        }
+		custom_cost_text = "caps_decisions_cost_text"
+		complete_effect = {
+			set_temp_variable = { caps_to_add = -50 }
+			add_caps = yes
+			}
+	fire_only_once = yes
+	remove_effect = {
+		country_event = enc_university.10
+		}
+	}
 }
