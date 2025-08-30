@@ -535,4 +535,268 @@ ENCuniversity = {
 		country_event = enc_university.22
 		}
 	}
+	University_texas_austin = {
+	icon = GFX_goal_generic_focus
+	visible = { owns_state = 915 }
+	available = {
+	owns_state = 915
+    has_completed_focus = BIB_american_university_system
+    }
+	days_remove = 150
+	custom_cost_trigger = {
+            set_temp_variable = { temp_cap_cost = 50}
+            check_variable = {
+                caps_number_display > temp_cap_cost
+            }
+        }
+		custom_cost_text = "caps_decisions_cost_text"
+		complete_effect = {
+			set_temp_variable = { caps_to_add = -50 }
+			add_caps = yes
+			}
+	fire_only_once = yes
+	remove_effect = {
+		country_event = enc_university.23
+		}
+	}
+	University_texas_dallas = {
+	icon = GFX_goal_generic_focus
+	visible = { owns_state = 892 }
+	available = {
+	owns_state = 892
+    has_completed_focus = BIB_american_university_system
+    }
+	days_remove = 150
+	custom_cost_trigger = {
+            set_temp_variable = { temp_cap_cost = 50}
+            check_variable = {
+                caps_number_display > temp_cap_cost
+            }
+        }
+		custom_cost_text = "caps_decisions_cost_text"
+		complete_effect = {
+			set_temp_variable = { caps_to_add = -50 }
+			add_caps = yes
+			}
+	fire_only_once = yes
+	remove_effect = {
+		country_event = enc_university.24
+		}
+	}
+	University_texas_houston = {
+	icon = GFX_goal_generic_focus
+	visible = { owns_state = 880 }
+	available = {
+	owns_state = 880
+    has_completed_focus = BIB_american_university_system
+    }
+	days_remove = 150
+	custom_cost_trigger = {
+            set_temp_variable = { temp_cap_cost = 50}
+            check_variable = {
+                caps_number_display > temp_cap_cost
+            }
+        }
+		custom_cost_text = "caps_decisions_cost_text"
+		complete_effect = {
+			set_temp_variable = { caps_to_add = -50 }
+			add_caps = yes
+			}
+	fire_only_once = yes
+	remove_effect = {
+		country_event = enc_university.25
+		}
+	}
+	University_texas_AM = {
+	icon = GFX_goal_generic_focus
+	visible = { owns_state = 894 }
+	available = {
+	owns_state = 894
+    has_completed_focus = BIB_american_university_system
+    }
+	days_remove = 150
+	custom_cost_trigger = {
+            set_temp_variable = { temp_cap_cost = 50}
+            check_variable = {
+                caps_number_display > temp_cap_cost
+            }
+        }
+		custom_cost_text = "caps_decisions_cost_text"
+		complete_effect = {
+			set_temp_variable = { caps_to_add = -50 }
+			add_caps = yes
+			}
+	fire_only_once = yes
+	remove_effect = {
+		country_event = enc_university.26
+		}
+	}
+	University_oklahoma = {
+	icon = GFX_goal_generic_focus
+	visible = { owns_state = 883 }
+	available = {
+	owns_state = 883
+    has_completed_focus = BIB_american_university_system
+    }
+	days_remove = 150
+	custom_cost_trigger = {
+            set_temp_variable = { temp_cap_cost = 50}
+            check_variable = {
+                caps_number_display > temp_cap_cost
+            }
+        }
+		custom_cost_text = "caps_decisions_cost_text"
+		complete_effect = {
+			set_temp_variable = { caps_to_add = -50 }
+			add_caps = yes
+			}
+	fire_only_once = yes
+	remove_effect = {
+		country_event = enc_university.27
+		}
+	}
+	University_oklahoma_state = {
+	icon = GFX_goal_generic_focus
+	visible = { owns_state = 616 }
+	available = {
+	owns_state = 616
+    has_completed_focus = BIB_american_university_system
+    }
+	days_remove = 150
+	custom_cost_trigger = {
+            set_temp_variable = { temp_cap_cost = 50}
+            check_variable = {
+                caps_number_display > temp_cap_cost
+            }
+        }
+		custom_cost_text = "caps_decisions_cost_text"
+		complete_effect = {
+			set_temp_variable = { caps_to_add = -50 }
+			add_caps = yes
+			}
+	fire_only_once = yes
+	remove_effect = {
+		country_event = enc_university.28
+		}
+	}
+	University_florida = {
+	icon = GFX_goal_generic_focus
+	visible = { owns_state = 1398 }
+	available = {
+	owns_state = 1398
+    has_completed_focus = BIB_american_university_system
+    }
+	days_remove = 150
+	custom_cost_trigger = {
+            set_temp_variable = { temp_cap_cost = 50}
+            check_variable = {
+                caps_number_display > temp_cap_cost
+            }
+        }
+		custom_cost_text = "caps_decisions_cost_text"
+		complete_effect = {
+			set_temp_variable = { caps_to_add = -50 }
+			add_caps = yes
+			}
+	fire_only_once = yes
+	remove_effect = {
+		country_event = enc_university.29
+		}
+	}
+	University_florida_state = {
+	icon = GFX_goal_generic_focus
+	visible = { owns_state = 1392 }
+	available = {
+	owns_state = 1392
+    has_completed_focus = BIB_american_university_system
+    }
+	days_remove = 150
+	custom_cost_trigger = {
+            set_temp_variable = { temp_cap_cost = 50}
+            check_variable = {
+                caps_number_display > temp_cap_cost
+            }
+        }
+		custom_cost_text = "caps_decisions_cost_text"
+		complete_effect = {
+			set_temp_variable = { caps_to_add = -50 }
+			add_caps = yes
+			}
+	fire_only_once = yes
+	remove_effect = {
+		country_event = enc_university.30
+		}
+	}
+	University_florida_south = {
+	icon = GFX_goal_generic_focus
+	visible = { owns_state = 1410 }
+	available = {
+	owns_state = 1410
+    has_completed_focus = BIB_american_university_system
+    }
+	days_remove = 150
+	custom_cost_trigger = {
+            set_temp_variable = { temp_cap_cost = 50}
+            check_variable = {
+                caps_number_display > temp_cap_cost
+            }
+        }
+		custom_cost_text = "caps_decisions_cost_text"
+		complete_effect = {
+			set_temp_variable = { caps_to_add = -50 }
+			add_caps = yes
+			}
+	fire_only_once = yes
+	remove_effect = {
+		country_event = enc_university.31
+		}
+	}
+	University_florida_central = {
+	icon = GFX_goal_generic_focus
+	visible = { owns_state = 1403 }
+	available = {
+	owns_state = 1403
+    has_completed_focus = BIB_american_university_system
+    }
+	days_remove = 150
+	custom_cost_trigger = {
+            set_temp_variable = { temp_cap_cost = 50}
+            check_variable = {
+                caps_number_display > temp_cap_cost
+            }
+        }
+		custom_cost_text = "caps_decisions_cost_text"
+		complete_effect = {
+			set_temp_variable = { caps_to_add = -50 }
+			add_caps = yes
+			}
+	fire_only_once = yes
+	remove_effect = {
+		country_event = enc_university.32
+		}
+	}
+	University_florida_international = {
+	icon = GFX_goal_generic_focus
+	visible = { owns_state = 1417 }
+	available = {
+	owns_state = 1417
+    has_completed_focus = BIB_american_university_system
+    }
+	days_remove = 150
+	custom_cost_trigger = {
+            set_temp_variable = { temp_cap_cost = 50}
+            check_variable = {
+                caps_number_display > temp_cap_cost
+            }
+        }
+		custom_cost_text = "caps_decisions_cost_text"
+		complete_effect = {
+			set_temp_variable = { caps_to_add = -50 }
+			add_caps = yes
+			}
+	fire_only_once = yes
+	remove_effect = {
+		country_event = enc_university.33
+		}
+	}
 }

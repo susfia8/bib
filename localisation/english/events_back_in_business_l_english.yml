@@ -227,3 +227,53 @@ enc_university.21.a: "Lux Hominum Vita"
 enc_university.22.t: "New Mexico State University restored!"
 enc_university.22.d: "New Mexico State University (NMSU or NM State) was a public, land-grant, research university in Las Cruces, New Mexico, United States. Founded in 1888, it was the state's oldest public institution of higher education, and was the original land-grant institution in New Mexico. NMSU was a university system, with its main campus in Las Cruces and satellite campuses in Alamogordo, Doña Ana County, and Grants. Through the NMSU Cooperative Extension Service, it had centers or programs in all 33 counties in the state."
 enc_university.22.a: "Go Aggies"
+
+### Texas
+
+enc_university.23.t: "University of Texas at Austin restored!"
+enc_university.23.d: "The University of Texas at Austin (UT Austin, UT, or Texas) was a public research university in Austin, Texas, United States. Founded in 1883, it was the flagship institution of the University of Texas System. The university was a major center for academic research. It joined the Association of American Universities in 1929. The university housed seven museums and seventeen libraries, including the Lyndon B. Johnson Presidential Library and the Blanton Museum of Art, and operated various auxiliary research facilities, such as the J. J. Pickle Research Campus and McDonald Observatory."
+enc_university.23.a: "Education is the Guardian of the State"
+
+enc_university.24.t: "University of Texas at Dallas restored!"
+enc_university.24.d: "The University of Texas at Dallas (UTD or UT Dallas) was a public research university in Richardson, Texas, United States. It was the northernmost institution of the University of Texas System. It was initially founded in 1961 as a private research arm of Texas Instruments. It was associated with four Nobel Prizes and had members of the National Academy of Sciences and National Academy of Engineering on its faculty with research projects including the areas of Space Science, Bioengineering, Cybersecurity, Nanotechnology, and Behavioral and Brain Sciences."
+enc_university.24.a: "An educated mind protects and strengthens democracy"
+
+enc_university.25.t: "University of Houston restored!"
+enc_university.25.d: "The University of Houston was a public research university in Houston, Texas, United States. It was established in 1927 as Houston Junior College, a coeducational institution and one of multiple junior colleges formed in the first decades of the 20th century. In 1934, HJC was restructured as a four-year degree-granting institution and renamed University of Houston. In 1977, it became the founding member of the University of Houston System. Houston was the fourth-largest university in Texas."
+enc_university.25.a: "In Tempore"
+
+enc_university.26.t: "Texas A&M University restored!"
+enc_university.26.d: "Texas A&M University (Texas A&M, A&M, TA&M, or TAMU) was a public, land-grant, research university in College Station, Texas, United States. It was founded in 1876 and became the flagship institution of the Texas A&M University System in 1948. Before the war, Texas A&M enrolled the largest student body in the United States."
+enc_university.26.a: "No wonder they call it College Station"
+
+### Oklahoma
+
+enc_university.27.t: "University of Oklahoma restored!"
+enc_university.27.d: "The University of Oklahoma (OU) was a public research university in Norman, Oklahoma, United States. Founded in 1890, it had existed in Oklahoma Territory near Indian Territory for 17 years before the two territories became the state of Oklahoma. The university offered 174 baccalaureate programs, 199 master's programs, 101 doctoral programs, and 88 certificate programs."
+enc_university.27.a: "Civi et Reipublicae"
+
+enc_university.28.t: "Oklahoma State University restored!"
+enc_university.28.d: "Oklahoma State University (informally Oklahoma State or OSU) was a public land-grant research university in Stillwater, Oklahoma, United States. The university was established in 1890 under the legislation of the Morrill Act. Originally known as Oklahoma Agricultural and Mechanical College (Oklahoma A&M), the Oklahoma State University campus in Stillwater was the flagship institution of the Oklahoma State University System, which enrolled more than 34,000 students across its five institutions."
+enc_university.28.a: "Scholarship, Instruction, Service"
+
+### Florida
+
+enc_university.29.t: "University of Florida restored!"
+enc_university.29.d: "The University of Florida (Florida or UF) was a public land-grant research university in Gainesville, Florida, United States. It was a senior member of the State University System of Florida and a preeminent university in the state. The university traces its origins to 1853 and had operated continuously on its Gainesville campus since September 1906."
+enc_university.29.a: "The welfare of the state depends upon the morals of its citizens"
+
+enc_university.30.t: "Florida State University restored!"
+enc_university.30.d: "Florida State University (FSU or Florida State) was a public research university in Tallahassee, Florida, United States. It was a senior member of the State University System of Florida and a preeminent university in the state. Chartered in 1851, it was located on Florida's oldest continuous site of higher education."
+enc_university.30.a: "Vires, Artes, Mores"
+
+enc_university.31.t: "University of South Florida restored!"
+enc_university.31.d: "The University of South Florida (USF) was a public research university with its main campus located in Tampa, Florida, United States, and other campuses in St. Petersburg and Sarasota. It was one of 12 members of the State University System of Florida. USF was home to 14 colleges, offering more than 240 undergraduate, graduate, specialist, and doctoral-level degree programs. USF was a member of the Association of American Universities (AAU) and was designated by the Florida Board of Governors as one of three Preeminent State Research Universities."
+enc_university.31.a: "Truth and Wisdom"
+
+enc_university.32.t: "University of Central Florida restored!"
+enc_university.32.d: "The University of Central Florida (UCF) was a public research university with its main campus in unincorporated Orange County, Florida, United States. It was part of the State University System of Florida. UCF had the second largest on-campus student body of any public university in the United States."
+enc_university.32.a: "Reach for the Stars"
+
+enc_university.33.t: "Florida International University restored!"
+enc_university.33.d: "Florida International University (FIU) was a public research university with its main campus in Westchester, Florida, United States. Founded in 1965 by the Florida Legislature, the school opened to students in 1972. FIU was the third-largest university in Florida and the eighth-largest public university in the United States by enrollment. It was a constituent part of the State University System of Florida and one of four state-designated Preeminent State Research Universities."
+enc_university.33.a: "Spes Scientia Facultas"
