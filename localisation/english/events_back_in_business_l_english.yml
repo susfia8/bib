@@ -155,65 +155,75 @@ enc_university.7.a: "Atleast there isn't any cannibals here.."
 ### California
 
 enc_university.8.t: "University of California, Los Angeles restored!"
-enc_university.8.d: "."
-enc_university.8.a: "."
+enc_university.8.d: "The University of California, Los Angeles (UCLA) was a public land-grant research university in Los Angeles, California, United States. Its academic roots were established in 1881 as a normal school then known as the southern branch of the California State Normal School which later evolved into San José State University. The branch was transferred to the University of California to become the Southern Branch of the University of California in 1919, making it the second-oldest of the ten-campus University of California system after the University of California, Berkeley."
+enc_university.8.a: "Let there be light"
 
 enc_university.9.t: "University of California, Berkeley restored!"
-enc_university.9.d: "."
-enc_university.9.a: "."
+enc_university.9.d: "The University of California, Berkeley (UC Berkeley, Berkeley, Cal, or California) was a public land-grant research university in Berkeley, California, United States. Founded in 1868 and named after the Anglo-Irish philosopher George Berkeley, it was the state's first land-grant university and is the founding campus of the University of California system."
+enc_university.9.a: "Let there be light"
 
 enc_university.10.t: "University of California, San Diego restored!"
-enc_university.10.d: "."
-enc_university.10.a: "."
+enc_university.10.d: "The University of California, San Diego (UC San Diego, or colloquially, UCSD) was a public land-grant research university in La Jolla, San Diego, California, United States. Established in 1960 near the pre-existing Scripps Institution of Oceanography in La Jolla, UC San Diego was the southernmost of the ten campuses of the University of California. It offered over 200 undergraduate and graduate degree programs, enrolling 33,096 undergraduate and 9,872 graduate students, with the second largest student housing capacity in the nation. The university occupies 2,178 acres (881 ha) near the Pacific coast."
+enc_university.10.a: "Let there be light"
 
 ### Washington
 
 enc_university.11.t: "University of Washington restored!"
-enc_university.11.d: "."
-enc_university.11.a: "."
+enc_university.11.d: "The University of Washington (UW and informally U-Dub or U Dub) was a public research university in Seattle, Washington, United States. Founded in 1861, it was one of the oldest universities on the West Coast of the United States. The university had a 700-acre (280 ha) main campus located in the city's University District. It also had satellite campuses in nearby cities of Tacoma and Bothell. Overall, UW encompassed more than 500 buildings and over 20 million gross square footage of space, including one of the largest library systems in the world with more than 26 university libraries, art centers, museums, laboratories, lecture halls, and stadiums."
+enc_university.11.a: "Lux sit"
 
 ### Idaho
 
 enc_university.12.t: "University of Idaho restored!"
-enc_university.12.d: "."
-enc_university.12.a: "."
+enc_university.12.d: "The University of Idaho (U of I, or UIdaho) was a public land-grant research university in Moscow, Idaho, United States. Established in 1889 and opened three years later, it was the state's sole university for 71 years, until 1963."
+enc_university.12.a: "A Legacy of Leading"
 
 ### Arizona
 
 enc_university.13.t: "Arizona State University restored!"
-enc_university.13.d: "."
-enc_university.13.a: "."
+enc_university.13.d: "Arizona State University (Arizona State or ASU) was a public research university in Tempe, Arizona, United States. Founded in 1885 as Territorial Normal School by the 13th Arizona Territorial Legislature, the university was one of the largest public universities by enrollment in the United States. It was one of about 180 normal schools founded in the late 19th century to train teachers for the rapidly growing public common schools. Some closed, but most steadily expanded their role and became state colleges in the early 20th century, then state universities in the late 20th century."
+enc_university.13.a: "Ditat Deus"
 
 enc_university.14.t: "University of Arizona restored!"
-enc_university.14.d: "."
-enc_university.14.a: "."
+enc_university.14.d: "The University of Arizona (Arizona, U of A, UArizona, or UA) was a public land-grant research university in Tucson, Arizona, United States. Founded in 1885 by the 13th Arizona Territorial Legislature, it was the first university established in the Arizona Territory. The University of Arizona was one of three universities governed by the Arizona Board of Regents (the University of Arizona, Arizona State University, and Northern Arizona University). The university enrolled 53,187 students in 22 separate colleges/schools, including the Eller College of Management, the Wyant College of Optical Sciences, the College of Medicine – Phoenix, the College of Medicine – Tucson, and the James E. Rogers College of Law."
+enc_university.14.a: "Sursum"
 
 enc_university.15.t: "Northern Arizona University restored!"
-enc_university.15.d: "."
-enc_university.15.a: "."
+enc_university.15.d: "Northern Arizona University (NAU) was a public research university based in Flagstaff, Arizona, United States. Founded in 1899, it was the third and final university established in the Arizona Territory."
+enc_university.15.a: "Ditat Deus"
 
 ### Montana
 
 enc_university.16.t: "University of Montana restored!"
-enc_university.16.d: "."
-enc_university.16.a: "."
+enc_university.16.d: "The University of Montana (UM) was a public research university in Missoula, Montana, United States. UM was a flagship institution of the Montana University System and its second largest campus."
+enc_university.16.a: "Lux et Veritas"
 
 enc_university.17.t: "Montana State University restored!"
-enc_university.17.d: "."
-enc_university.17.a: "."
+enc_university.17.d: "Montana State University (MSU) was a public land-grant research university in Bozeman, Montana, United States. It enrolled more students than any other college or university in the state. MSU offered baccalaureate degrees in 60 fields, master's degrees in 68 fields, and doctoral degrees in 35 fields through its nine colleges."
+enc_university.17.a: "Mountains & Minds"
 
 ### Wyoming
 
 enc_university.18.t: "University of Wyoming restored!"
-enc_university.18.d: "."
-enc_university.18.a: "."
+enc_university.18.d: "The University of Wyoming (UW) was a public land-grant research university in Laramie, Wyoming, United States. It was founded in March 1886, four years before the territory was admitted as the 44th state, and opened in September 1887. The University of Wyoming's location was written into the state's constitution."
+enc_university.18.a: "Equality"
 
 ### Colorado
 
 enc_university.19.t: "University of Colorado Boulder restored!"
-enc_university.19.d: "."
-enc_university.19.a: "."
+enc_university.19.d: "The University of Colorado Boulder (CU Boulder, CU, or Colorado) was a public research university in Boulder, Colorado, United States. Founded in 1876, five months before Colorado became a state, it was the flagship university of the University of Colorado system."
+enc_university.19.a: "Let your light shine"
 
 enc_university.20.t: "Colorado State University restored!"
-enc_university.20.d: "."
-enc_university.20.a: "."
+enc_university.20.d: "Colorado State University (Colorado State or CSU) was a public land-grant research university in Fort Collins, Colorado, United States. It was the flagship university of the Colorado State University System. It was founded in 1870 as Colorado Agricultural College and assumed its current name in 1957."
+enc_university.20.a: "Education, Service, Research, Extension"
+
+### New Mexico
+
+enc_university.21.t: "University of New Mexico restored!"
+enc_university.21.d: "The University of New Mexico (UNM; Spanish: Universidad de Nuevo México) was a public research university in Albuquerque, New Mexico, United States. Founded in 1889 by the New Mexico Territorial Legislature, it was the state's second oldest university, a flagship university in the state, and the largest by enrollment."
+enc_university.21.a: "Lux Hominum Vita"
+
+enc_university.22.t: "New Mexico State University restored!"
+enc_university.22.d: "New Mexico State University (NMSU or NM State) was a public, land-grant, research university in Las Cruces, New Mexico, United States. Founded in 1888, it was the state's oldest public institution of higher education, and was the original land-grant institution in New Mexico. NMSU was a university system, with its main campus in Las Cruces and satellite campuses in Alamogordo, Doña Ana County, and Grants. Through the NMSU Cooperative Extension Service, it had centers or programs in all 33 counties in the state."
+enc_university.22.a: "Go Aggies"
