@@ -481,3 +481,68 @@ country_event = {
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
+
+country_event = {
+	id = enc_university.38
+	title = enc_university.38.t
+	desc = enc_university.38.d
+	picture = GFX_event_enc_US_embassy
+	is_triggered_only = yes
+	fire_only_once = yes
+		option = { 
+			name = enc_university.38.a
+			add_to_variable = { uni_research_speed = 0.005 }
+		}
+	}
+
+country_event = {
+	id = enc_university.39
+	title = enc_university.39.t
+	desc = enc_university.39.d
+	picture = GFX_event_enc_US_embassy
+	is_triggered_only = yes
+	fire_only_once = yes
+		option = { 
+			name = enc_university.39.a
+			add_to_variable = { uni_research_speed = 0.01 }
+		}
+	}
+
+country_event = {
+	id = enc_university.40
+	title = enc_university.40.t
+	desc = enc_university.40.d
+	picture = GFX_event_enc_US_embassy
+	is_triggered_only = yes
+	fire_only_once = yes
+		option = { 
+			name = enc_university.40.a
+			add_to_variable = { uni_research_speed = 0.005 }
+		}
+	}
+
+country_event = {
+	id = enc_university.41
+	title = enc_university.41.t
+	desc = enc_university.41.d
+	picture = GFX_event_enc_US_embassy
+	is_triggered_only = yes
+	fire_only_once = yes
+		option = { 
+			name = enc_university.41.a
+			add_to_variable = { uni_research_speed = 0.005 }
+		}
+	}
+
+country_event = {
+	id = enc_university.42
+	title = enc_university.42.t
+	desc = enc_university.42.d
+	picture = GFX_event_enc_US_embassy
+	is_triggered_only = yes
+	fire_only_once = yes
+		option = { 
+			name = enc_university.42.a
+			add_to_variable = { uni_research_speed = 0.005 }
+		}
+	}

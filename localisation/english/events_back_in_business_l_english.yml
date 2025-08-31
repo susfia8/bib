@@ -297,3 +297,25 @@ enc_university.36.a: "Medicine, Research, Education"
 enc_university.37.t: "University of North Dakota restored!"
 enc_university.37.d: "The University of North Dakota (UND) was a public research university in Grand Forks, North Dakota, United States. It was established by the Dakota Territorial Assembly in 1883, six years before the establishment of the state of North Dakota. The university had the only schools of law and medicine in the state of North Dakota. The John D. Odegard School of Aerospace Sciences was the first in the country to offer a degree in unmanned aircraft systems operation. Several national research institutions were on the university's campus including the Energy and Environmental Research Center, the School of Medicine and Health Sciences, and the USDA Human Nutrition Research Center."
 enc_university.37.a: "Lux et Lex"
+
+enc_university.38.t: "North Dakota State University restored!"
+enc_university.38.d: "North Dakota State University (NDSU, formally North Dakota State University of Agriculture and Applied Sciences) was a public land-grant research university in Fargo, North Dakota, United States. It was founded as North Dakota Agricultural College in 1890 as the state's land-grant university. Before the war, NDSU offered 94 undergraduate majors, 146 undergraduate degree programs, 5 undergraduate certificate programs, 84 undergraduate minors, 87 master's degree programs, 51 doctoral degree programs of study, and 210 graduate certificate programs."
+enc_university.38.a: "STATE BISON!!"
+
+### Pennsylvania
+
+enc_university.39.t: "University of Pennsylvania restored!"
+enc_university.39.d: "The University of Pennsylvania (Penn or UPenn) was a private Ivy League research university in Philadelphia, Pennsylvania, United States. It was one of the nine colonial colleges founded prior to the Declaration of Independence and the first institution of higher learning in the United States to refer to itself as a university. Benjamin Franklin, Penn's founder and first president, advocated an educational program that trained leaders in commerce, government, and public service, similar to the ancient universities of Europe. It was also among the first universities in the United States to include graduate and professional studies. Among its graduate schools are its law school, whose first professor, James Wilson, helped write the U.S. Constitution; and its medical school, the first in North America."
+enc_university.39.a: "Leges Sine Moribus Vanae"
+
+enc_university.40.t: "Carnegie Mellon University restored!"
+enc_university.40.d: "Carnegie Mellon University (CMU or Carnegie Mellon) was a private research university in Pittsburgh, Pennsylvania. Founded in 1900 by industrialist and philanthropist Andrew Carnegie as the Carnegie Technical Schools, the university became the Carnegie Institute of Technology in 1912 and began granting four-year degrees. In 1967, the Carnegie Institute of Technology merged with the Mellon Institute of Industrial Research to form Carnegie Mellon University. The university was known for its programs in computer science, engineering, business, public policy, fine arts, and drama."
+enc_university.40.a: "My heart is in the work"
+
+enc_university.41.t: "Pennsylvania State University restored!"
+enc_university.41.d: "The Pennsylvania State University (Penn State or PSU) was a public land-grant research university with campuses and facilities throughout Pennsylvania. Founded in 1855 as the Farmers' High School of Pennsylvania, Penn State became the state's only land-grant university in 1863. Its primary campus, known as Penn State University Park, was established in 1953 in State College and is the largest of the university's 24 campuses. The university had two law schools: Penn State Law, on the University Park campus, and Dickinson Law, in Carlisle. The College of Medicine is located in Hershey."
+enc_university.41.a: "Virtue, Liberty, and Independence"
+
+enc_university.42.t: "University of Pittsburgh restored!"
+enc_university.42.d: "The University of Pittsburgh (Pitt) was a state-related research university in Pittsburgh, Pennsylvania. Founded as the Pittsburgh Academy in 1787, it became the Western University of Pennsylvania in 1819 before being renamed to its current name in 1908."
+enc_university.42.a: "Veritas et Virtus"

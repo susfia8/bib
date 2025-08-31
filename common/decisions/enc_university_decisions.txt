@@ -919,4 +919,124 @@ ENCuniversity = {
 		country_event = enc_university.37
 		}
 	}
+	University_north_dakota_state = {
+	icon = GFX_goal_generic_focus
+	visible = { owns_state = 1097 }
+	available = {
+	owns_state = 1097
+    has_completed_focus = BIB_american_university_system
+    }
+	days_remove = 150
+	custom_cost_trigger = {
+            set_temp_variable = { temp_cap_cost = 50}
+            check_variable = {
+                caps_number_display > temp_cap_cost
+            }
+        }
+		custom_cost_text = "caps_decisions_cost_text"
+		complete_effect = {
+			set_temp_variable = { caps_to_add = -50 }
+			add_caps = yes
+			}
+	fire_only_once = yes
+	remove_effect = {
+		country_event = enc_university.38
+		}
+	}
+	University_pennsylvania = {
+	icon = GFX_goal_generic_focus
+	visible = { owns_state = 1594 }
+	available = {
+	owns_state = 1594
+    has_completed_focus = BIB_american_university_system
+    }
+	days_remove = 150
+	custom_cost_trigger = {
+            set_temp_variable = { temp_cap_cost = 100}
+            check_variable = {
+                caps_number_display > temp_cap_cost
+            }
+        }
+		custom_cost_text = "caps_decisions_cost_text"
+		complete_effect = {
+			set_temp_variable = { caps_to_add = -100 }
+			add_caps = yes
+			}
+	fire_only_once = yes
+	remove_effect = {
+		country_event = enc_university.39
+		}
+	}
+	University_carnegie = {
+	icon = GFX_goal_generic_focus
+	visible = { owns_state = 1567 }
+	available = {
+	owns_state = 1567
+    has_completed_focus = BIB_american_university_system
+    }
+	days_remove = 150
+	custom_cost_trigger = {
+            set_temp_variable = { temp_cap_cost = 50}
+            check_variable = {
+                caps_number_display > temp_cap_cost
+            }
+        }
+		custom_cost_text = "caps_decisions_cost_text"
+		complete_effect = {
+			set_temp_variable = { caps_to_add = -50 }
+			add_caps = yes
+			}
+	fire_only_once = yes
+	remove_effect = {
+		country_event = enc_university.40
+		}
+	}
+	University_pennsylvania_state = {
+	icon = GFX_goal_generic_focus
+	visible = { owns_state = 1564 }
+	available = {
+	owns_state = 1564
+    has_completed_focus = BIB_american_university_system
+    }
+	days_remove = 150
+	custom_cost_trigger = {
+            set_temp_variable = { temp_cap_cost = 50}
+            check_variable = {
+                caps_number_display > temp_cap_cost
+            }
+        }
+		custom_cost_text = "caps_decisions_cost_text"
+		complete_effect = {
+			set_temp_variable = { caps_to_add = -50 }
+			add_caps = yes
+			}
+	fire_only_once = yes
+	remove_effect = {
+		country_event = enc_university.41
+		}
+	}
+	University_pittsburgh = {
+	icon = GFX_goal_generic_focus
+	visible = { owns_state = 1567 }
+	available = {
+	owns_state = 1567
+    has_completed_focus = BIB_american_university_system
+    }
+	days_remove = 150
+	custom_cost_trigger = {
+            set_temp_variable = { temp_cap_cost = 50}
+            check_variable = {
+                caps_number_display > temp_cap_cost
+            }
+        }
+		custom_cost_text = "caps_decisions_cost_text"
+		complete_effect = {
+			set_temp_variable = { caps_to_add = -50 }
+			add_caps = yes
+			}
+	fire_only_once = yes
+	remove_effect = {
+		country_event = enc_university.42
+		}
+	}
 }
