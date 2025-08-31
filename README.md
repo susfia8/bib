@@ -8,4 +8,4 @@ Download the latest version of the mod by clicking the green code button and the
 Feel free to take a look arond and make pull requests if you noticed a bug/want to help me with this thing!
 
 
-All content featured in this project is free to be modified and redistributed by whoever pleases with no permission needed and no conditions.
+Following GPLv3, All content featured in this project is free to be modified and redistributed by whoever pleases with no permission needed.
