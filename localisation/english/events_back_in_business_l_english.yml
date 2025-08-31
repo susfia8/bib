@@ -277,3 +277,23 @@ enc_university.32.a: "Reach for the Stars"
 enc_university.33.t: "Florida International University restored!"
 enc_university.33.d: "Florida International University (FIU) was a public research university with its main campus in Westchester, Florida, United States. Founded in 1965 by the Florida Legislature, the school opened to students in 1972. FIU was the third-largest university in Florida and the eighth-largest public university in the United States by enrollment. It was a constituent part of the State University System of Florida and one of four state-designated Preeminent State Research Universities."
 enc_university.33.a: "Spes Scientia Facultas"
+
+### Nebraska
+
+enc_university.34.t: "University of Nebraska Omaha restored!"
+enc_university.34.d: "The University of Nebraska Omaha (UNO) was a public research university in Omaha, Nebraska, United States. Founded in 1908 by faculty from the Omaha Presbyterian Theological Seminary as a private non-sectarian college, the university was originally known as the University of Omaha. Originally meant to provide a Christian-based education free from ecclesiastical control, the university served as a strong alternative to the city's many successful religiously-affiliated institutions."
+enc_university.34.a: "Literis Dedicata et Omnibus Artibus"
+
+enc_university.35.t: "University of Nebraska Lincoln–restored!"
+enc_university.35.d: "The University of Nebraska–Lincoln (Nebraska, NU, or UNL) was a public land-grant research university in Lincoln, Nebraska, United States. Chartered in 1869 by the Nebraska Legislature as part of the Morrill Act of 1862, the school was the University of Nebraska until 1968, when it absorbed the Municipal University of Omaha to form the University of Nebraska system. It was the state's oldest university and the flagship institution of the state-wide system."
+enc_university.35.a: "Literis Dedicata et Omnibus Artibus"
+
+enc_university.36.t: "University of Nebraska Medical Center restored!"
+enc_university.36.d: "The University of Nebraska Medical Center (UNMC) was a public academic health science center in Omaha, Nebraska. Founded in 1869 and chartered as a private medical college in 1881, UNMC became part of the University of Nebraska System in 1902. Rapidly expanding in the early 20th century, the university founded a hospital, dental college, pharmacy college, college of nursing, and college of medicine. It later added colleges of public health and allied health professions."
+enc_university.36.a: "Medicine, Research, Education"
+
+### North Dakota
+
+enc_university.37.t: "University of North Dakota restored!"
+enc_university.37.d: "The University of North Dakota (UND) was a public research university in Grand Forks, North Dakota, United States. It was established by the Dakota Territorial Assembly in 1883, six years before the establishment of the state of North Dakota. The university had the only schools of law and medicine in the state of North Dakota. The John D. Odegard School of Aerospace Sciences was the first in the country to offer a degree in unmanned aircraft systems operation. Several national research institutions were on the university's campus including the Energy and Environmental Research Center, the School of Medicine and Health Sciences, and the USDA Human Nutrition Research Center."
+enc_university.37.a: "Lux et Lex"
