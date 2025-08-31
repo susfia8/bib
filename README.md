@@ -1,8 +1,11 @@
-ENCLAVE HERE!
+Enclave here!
 
-WELCOME TO THE ERX SUBMOD "BACK IN BUSINESS", A MOD ADDING LATE GAME CONTENT AND OTHER FUN STUFF!
+Welcome to the ERX submod "Back in Business", a mod adding late game content and other fun stuff!
 
-DOWNLOAD THE LATEST VERSION OF THE MOD BY CLICKING THE GREEN CODE BUTTON AND THEN DOWNLOADING THE .ZIP
+Download the latest version of the mod by clicking the green code button and then downloading the .zip
 
 
-FEEL FREE TO TAKE A LOOK AROND AND MAKE PULL REQUESTS IF YOU NOTICED A BUG/WANT TO HELP ME WITH THIS THING!
+Feel free to take a look arond and make pull requests if you noticed a bug/want to help me with this thing!
+
+
+All content featured in this project is free to be modified and redistributed by whoever pleases with no permission needed and no conditions.
