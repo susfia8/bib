@@ -335,3 +335,9 @@ enc_university.44.a: "The truth will set you free"
 enc_university.45.t: "George Washington University restored!"
 enc_university.45.d: "The George Washington University (GW or GWU) was a private federally-chartered research university in Washington, D.C., United States. Originally named Columbian College, it was chartered in 1821 by the United States Congress and was the first university founded under Washington, D.C.'s jurisdiction. It was one of the nation's six federally chartered universities."
 enc_university.45.a: "Deus Nobis Fiducia"
+
+### Delaware
+
+enc_university.46.t: "University of Delaware restored!"
+enc_university.46.d: "The University of Delaware (colloquially known as UD, UDel, or Delaware) was a privately governed, state-assisted land-grant research university in Newark, Delaware, United States. UD offered 4 associate programs, 163 bachelor's programs, 136 master's programs, and 64 doctoral programs across its ten colleges and schools. The main campus was in Newark, with satellite campuses in Dover, Wilmington, Lewes, and Georgetown, Delaware."
+enc_university.46.a: "Scientia Sol Mentis Est"
