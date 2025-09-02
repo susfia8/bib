@@ -319,3 +319,19 @@ enc_university.41.a: "Virtue, Liberty, and Independence"
 enc_university.42.t: "University of Pittsburgh restored!"
 enc_university.42.d: "The University of Pittsburgh (Pitt) was a state-related research university in Pittsburgh, Pennsylvania. Founded as the Pittsburgh Academy in 1787, it became the Western University of Pennsylvania in 1819 before being renamed to its current name in 1908."
 enc_university.42.a: "Veritas et Virtus"
+
+### Maryland
+
+enc_university.43.t: "University of Maryland, College Park restored!"
+enc_university.43.d: "The University of Maryland, College Park (University of Maryland, UMD, or simply Maryland) was a public land-grant research university in College Park, Maryland, United States. Founded in 1856, UMD was the flagship institution of the University System of Maryland. It was known as the biggest university in the state of Maryland."
+enc_university.43.a: "Go Terrapins!"
+
+enc_university.44.t: "Johns Hopkins University restored!"
+enc_university.44.d: "Johns Hopkins University (often abbreviated as Johns Hopkins, Hopkins, or JHU) was a private research university in Baltimore, Maryland, United States. Founded in 1876 based on the European research institution model, Johns Hopkins was considered to be the first research university in the U.S."
+enc_university.44.a: "The truth will set you free"
+
+### DC
+
+enc_university.45.t: "George Washington University restored!"
+enc_university.45.d: "The George Washington University (GW or GWU) was a private federally-chartered research university in Washington, D.C., United States. Originally named Columbian College, it was chartered in 1821 by the United States Congress and was the first university founded under Washington, D.C.'s jurisdiction. It was one of the nation's six federally chartered universities."
+enc_university.45.a: "Deus Nobis Fiducia"

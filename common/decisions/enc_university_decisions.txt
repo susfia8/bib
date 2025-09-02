@@ -1039,4 +1039,76 @@ ENCuniversity = {
 		country_event = enc_university.42
 		}
 	}
+	University_maryland_college_park = {
+	icon = GFX_goal_generic_focus
+	visible = { owns_state = 1527 }
+	available = {
+	owns_state = 1527
+    has_completed_focus = BIB_american_university_system
+    }
+	days_remove = 150
+	custom_cost_trigger = {
+            set_temp_variable = { temp_cap_cost = 50}
+            check_variable = {
+                caps_number_display > temp_cap_cost
+            }
+        }
+		custom_cost_text = "caps_decisions_cost_text"
+		complete_effect = {
+			set_temp_variable = { caps_to_add = -50 }
+			add_caps = yes
+			}
+	fire_only_once = yes
+	remove_effect = {
+		country_event = enc_university.43
+		}
+	}
+	University_maryland_john_hopkins = {
+	icon = GFX_goal_generic_focus
+	visible = { owns_state = 1529 }
+	available = {
+	owns_state = 1529
+    has_completed_focus = BIB_american_university_system
+    }
+	days_remove = 150
+	custom_cost_trigger = {
+            set_temp_variable = { temp_cap_cost = 50}
+            check_variable = {
+                caps_number_display > temp_cap_cost
+            }
+        }
+		custom_cost_text = "caps_decisions_cost_text"
+		complete_effect = {
+			set_temp_variable = { caps_to_add = -50 }
+			add_caps = yes
+			}
+	fire_only_once = yes
+	remove_effect = {
+		country_event = enc_university.44
+		}
+	}
+	University_dc_george_washington = {
+	icon = GFX_goal_generic_focus
+	visible = { owns_state = 1525 }
+	available = {
+	owns_state = 1525
+    has_completed_focus = BIB_american_university_system
+    }
+	days_remove = 150
+	custom_cost_trigger = {
+            set_temp_variable = { temp_cap_cost = 50}
+            check_variable = {
+                caps_number_display > temp_cap_cost
+            }
+        }
+		custom_cost_text = "caps_decisions_cost_text"
+		complete_effect = {
+			set_temp_variable = { caps_to_add = -50 }
+			add_caps = yes
+			}
+	fire_only_once = yes
+	remove_effect = {
+		country_event = enc_university.45
+		}
+	}
 }
