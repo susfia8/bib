@@ -37,6 +37,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.3.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -50,6 +51,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.4.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -63,6 +65,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.5.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -76,6 +79,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.6.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -89,6 +93,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.7.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -102,6 +107,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.8.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -115,6 +121,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.9.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -128,6 +135,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.10.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -141,6 +149,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.11.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -154,6 +163,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.12.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -167,6 +177,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.13.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -180,6 +191,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.14.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -193,6 +205,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.15.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -206,6 +219,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.16.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -219,6 +233,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.17.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -232,6 +247,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.18.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -245,6 +261,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.19.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -258,6 +275,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.20.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -271,6 +289,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.21.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -283,6 +302,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.22.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -296,6 +316,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.23.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -309,6 +330,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.24.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -322,6 +344,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.25.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -335,6 +358,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.26.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -348,6 +372,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.27.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -361,6 +386,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.28.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -374,6 +400,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.29.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -387,6 +414,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.30.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -400,6 +428,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.31.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -413,6 +442,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.32.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -426,6 +456,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.33.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -439,6 +470,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.34.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -452,6 +484,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.35.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -465,6 +498,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.36.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -478,6 +512,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.37.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -491,6 +526,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.38.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -504,6 +540,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.39.a
+			custom_effect_tooltip = BIB_engineering_schools.tt
 			add_to_variable = { uni_research_speed = 0.01 }
 		}
 	}
@@ -517,6 +554,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.40.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -530,6 +568,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.41.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -543,6 +582,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.42.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -556,6 +596,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.43.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -569,6 +610,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.44.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -582,6 +624,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.45.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
@@ -595,6 +638,7 @@ country_event = {
 	fire_only_once = yes
 		option = { 
 			name = enc_university.46.a
+			custom_effect_tooltip = BIB_universities.tt
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
