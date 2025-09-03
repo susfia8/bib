@@ -32,7 +32,7 @@ bib_private_led = {
 		trade_opinion_factor = bib_trade_opinion
 }
 bib_universities = {
-	icon = GFX_idea_enc_fort_army
+	icon = GFX_idea_universities
 
 		research_speed_factor = uni_research_speed
 }

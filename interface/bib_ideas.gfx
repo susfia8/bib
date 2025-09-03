@@ -151,4 +151,8 @@ spriteTypes = {
 			name = "GFX_idea_digital_economic_planning"
 			texturefile = "gfx/interface/ideas/bib_digital_economy.dds"
 		}
+	spriteType = {
+			name = "GFX_idea_universities"
+			texturefile = "gfx/interface/ideas/bib_universities.dds"
+		}
 	}
