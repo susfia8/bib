@@ -642,3 +642,87 @@ country_event = {
 			add_to_variable = { uni_research_speed = 0.005 }
 		}
 	}
+
+country_event = {
+	id = enc_university.47
+	title = enc_university.47.t
+	desc = enc_university.47.d
+	picture = GFX_event_enc_US_embassy
+	is_triggered_only = yes
+	fire_only_once = yes
+		option = { 
+			name = enc_university.47.a
+			custom_effect_tooltip = BIB_universities.tt
+			add_to_variable = { uni_research_speed = 0.005 }
+		}
+	}
+
+country_event = {
+	id = enc_university.48
+	title = enc_university.48.t
+	desc = enc_university.48.d
+	picture = GFX_event_enc_US_embassy
+	is_triggered_only = yes
+	fire_only_once = yes
+		option = { 
+			name = enc_university.48.a
+			custom_effect_tooltip = BIB_universities.tt
+			add_to_variable = { uni_research_speed = 0.005 }
+		}
+	}
+
+country_event = {
+	id = enc_university.49
+	title = enc_university.49.t
+	desc = enc_university.49.d
+	picture = GFX_event_enc_US_embassy
+	is_triggered_only = yes
+	fire_only_once = yes
+		option = { 
+			name = enc_university.49.a
+			custom_effect_tooltip = BIB_universities.tt
+			add_to_variable = { uni_research_speed = 0.005 }
+		}
+	}
+
+country_event = {
+	id = enc_university.50
+	title = enc_university.50.t
+	desc = enc_university.50.d
+	picture = GFX_event_enc_US_embassy
+	is_triggered_only = yes
+	fire_only_once = yes
+		option = { 
+			name = enc_university.50.a
+			custom_effect_tooltip = BIB_universities.tt
+			add_to_variable = { uni_research_speed = 0.005 }
+		}
+	}
+
+country_event = {
+	id = enc_university.51
+	title = enc_university.51.t
+	desc = enc_university.51.d
+	picture = GFX_event_enc_US_embassy
+	is_triggered_only = yes
+	fire_only_once = yes
+		option = { 
+			name = enc_university.51.a
+			custom_effect_tooltip = BIB_universities.tt
+			add_to_variable = { uni_research_speed = 0.005 }
+		}
+	}
+
+country_event = {
+	id = enc_university.52
+	title = enc_university.52.t
+	desc = enc_university.52.d
+	picture = GFX_event_enc_US_embassy
+	is_triggered_only = yes
+	fire_only_once = yes
+		option = { 
+			name = enc_university.52.a
+			custom_effect_tooltip = BIB_universities.tt
+			add_to_variable = { uni_research_speed = 0.005 }
+		}
+	}

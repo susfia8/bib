@@ -166,6 +166,30 @@ enc_university.10.t: "University of California, San Diego restored!"
 enc_university.10.d: "The University of California, San Diego (UC San Diego, or colloquially, UCSD) was a public land-grant research university in La Jolla, San Diego, California, United States. Established in 1960 near the pre-existing Scripps Institution of Oceanography in La Jolla, UC San Diego was the southernmost of the ten campuses of the University of California. It offered over 200 undergraduate and graduate degree programs, enrolling 33,096 undergraduate and 9,872 graduate students, with the second largest student housing capacity in the nation. The university occupies 2,178 acres (881 ha) near the Pacific coast."
 enc_university.10.a: "Let there be light"
 
+enc_university.47.t: "University of California, Davis restored!"
+enc_university.47.d: "The University of California, Davis (UC Davis, UCD, or Davis) was a public land-grant research university in Davis, California, United States. It was the northernmost of the ten campuses of the University of California system. The institution was first founded as an agricultural branch of the system in 1905 and became the sixth campus of the University of California in 1959."
+enc_university.47.a: "Let there be light"
+
+enc_university.48.t: "University of California, Santa Barbara restored!"
+enc_university.48.d: "The University of California, Santa Barbara (UC Santa Barbara or UCSB) was a public land-grant research university in Santa Barbara County, California, United States. Tracing its roots back to 1891 as an independent teachers college, UC Santa Barbara joined the University of California system in 1944. It was the third-oldest campus in the system, after UC Berkeley and UCLA."
+enc_university.48.a: "Let there be light"
+
+enc_university.49.t: "University of California, Irvine restored!"
+enc_university.49.d: "The University of California, Irvine (UCI or UC Irvine) was a public land-grant research university in Irvine, California, United States. One of the ten campuses of the University of California system, UCI offered 87 undergraduate degrees and 129 graduate and professional degrees."
+enc_university.49.a: "Let there be light"
+
+enc_university.50.t: "Stanford University restored!"
+enc_university.50.d: "Leland Stanford Junior University, commonly referred to as Stanford University, was a private research university in Stanford, California, United States. It was founded in 1885 by railroad magnate Leland Stanford (the eighth governor of and then-incumbent United States senator representing California) and his wife, Jane, in memory of their only child, Leland Jr."
+enc_university.50.a: "Die Luft der Freiheit weht"
+
+enc_university.51.t: "San Jose State University restored!"
+enc_university.51.d: "San José State University (San Jose State or SJSU) was a public research university in San Jose, California. Established in 1857 as the state's first normal school, it was the oldest public university in the western United States and was the founding campus of the California State University system."
+enc_university.51.a: "Powering Silicon Valley"
+
+enc_university.52.t: "San Diego State University restored!"
+enc_university.52.d: "San Diego State University (SDSU) was a public research university in San Diego, California, United States. Founded in 1897, it was the third-oldest university and southernmost in the 23-member California State University (CSU) system. SDSU was the oldest higher education institution in San Diego; its academic roots were established as a normal school in University Heights, then known as the San Diego Normal School."
+enc_university.52.a: "Leadership Starts Here"
+
 ### Washington
 
 enc_university.11.t: "University of Washington restored!"
