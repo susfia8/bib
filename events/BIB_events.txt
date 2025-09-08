@@ -475,3 +475,16 @@ country_event = { # How we got here
         country_event = { id = bib.29 days = 1 }
     }
 }
+
+country_event = { # How we got here
+    id = bib.29
+    title = bib.29.t
+    desc = bib.29.d
+    picture = GFX_event_enc_US_embassy
+
+    is_triggered_only = yes
+
+    option = {
+        name = bib.29.a
+    }
+}
