@@ -24982,8 +24982,9 @@ focus = {#Norfolk Naval Base
 		y = 1
 			prerequisite = {focus = BIB_engineering_schools}
 			completion_reward = {
-				custom_effect_tooltip = BIB_engineering_schools.tt
+				custom_effect_tooltip = BIB_uni_efficiency_gain.tt
 				add_to_variable = { uni_research_speed = 0.01 }
+				add_to_variable = { uni_efficiency_gain = 0.05 }
 		}
 	}
 		focus = {
@@ -24995,8 +24996,9 @@ focus = {#Norfolk Naval Base
 		y = 1
 			prerequisite = {focus = BIB_on_site_training}
 			completion_reward = {
-				custom_effect_tooltip = BIB_engineering_schools.tt
+				custom_effect_tooltip = BIB_employment_agencies.tt
 				add_to_variable = { uni_research_speed = 0.01 }
+				add_to_variable = { uni_stability_weekly = 0.01 }
 		}
 	}
 		focus = {
@@ -25008,8 +25010,9 @@ focus = {#Norfolk Naval Base
 		y = 1
 			prerequisite = {focus = BIB_american_university_system}
 			completion_reward = {
-				custom_effect_tooltip = BIB_engineering_schools.tt
+				custom_effect_tooltip = BIB_medical_schools.tt
 				add_to_variable = { uni_research_speed = 0.01 }
+				add_to_variable = { uni_population = 0.05 }
 		}
 	}
 		focus = {
@@ -25021,8 +25024,9 @@ focus = {#Norfolk Naval Base
 		y = 1
 			prerequisite = {focus = BIB_medical_schools}
 			completion_reward = {
-				custom_effect_tooltip = BIB_engineering_schools.tt
+				custom_effect_tooltip = BIB_medical_schools.tt
 				add_to_variable = { uni_research_speed = 0.01 }
+				add_to_variable = { uni_population = 0.05 }
 		}
 	}
 		focus = {
@@ -25034,8 +25038,9 @@ focus = {#Norfolk Naval Base
 		y = 1
 			prerequisite = {focus = BIB_post_war_medical_boards}
 			completion_reward = {
-				custom_effect_tooltip = BIB_engineering_schools.tt
+				custom_effect_tooltip = BIB_medical_schools.tt
 				add_to_variable = { uni_research_speed = 0.01 }
+				add_to_variable = { uni_population = 0.05 }
 		}
 	}
 		focus = {
@@ -25047,8 +25052,9 @@ focus = {#Norfolk Naval Base
 		y = 1
 			prerequisite = {focus = BIB_medical_schools}
 			completion_reward = {
-				custom_effect_tooltip = BIB_engineering_schools.tt
+				custom_effect_tooltip = BIB_medical_schools.tt
 				add_to_variable = { uni_research_speed = 0.01 }
+				add_to_variable = { uni_population = 0.05 }
 		}
 	}
 		focus = {
@@ -25060,8 +25066,9 @@ focus = {#Norfolk Naval Base
 		y = 1
 			prerequisite = {focus = BIB_categorize_post_war_diseases}
 			completion_reward = {
-				custom_effect_tooltip = BIB_engineering_schools.tt
+				custom_effect_tooltip = BIB_medical_schools.tt
 				add_to_variable = { uni_research_speed = 0.01 }
+				add_to_variable = { uni_population = 0.05 }
 		}
 	}
 		focus = {
@@ -25074,8 +25081,9 @@ focus = {#Norfolk Naval Base
 			prerequisite = {focus = BIB_human_genome_project}
 			prerequisite = {focus = BIB_trauma_and_psychology_institutes}
 			completion_reward = {
-				custom_effect_tooltip = BIB_engineering_schools.tt
+				custom_effect_tooltip = BIB_medical_schools.tt
 				add_to_variable = { uni_research_speed = 0.01 }
+				add_to_variable = { uni_population = 0.05 }
 		}
 	}
 		focus = {
@@ -25087,8 +25095,9 @@ focus = {#Norfolk Naval Base
 		y = 1
 			prerequisite = {focus = BIB_american_university_system}
 			completion_reward = {
-				custom_effect_tooltip = BIB_engineering_schools.tt
+				custom_effect_tooltip = BIB_uni_efficiency_cap.tt
 				add_to_variable = { uni_research_speed = 0.01 }
+				add_to_variable = { uni_efficiency_cap = 0.05 }
 		}
 	}
 		focus = {
@@ -25100,8 +25109,9 @@ focus = {#Norfolk Naval Base
 		y = 1
 			prerequisite = {focus = BIB_agriculture_schools}
 			completion_reward = {
-				custom_effect_tooltip = BIB_engineering_schools.tt
+				custom_effect_tooltip = BIB_uni_efficiency_cap.tt
 				add_to_variable = { uni_research_speed = 0.01 }
+				add_to_variable = { uni_efficiency_cap = 0.05 }
 		}
 	}
 		focus = {
@@ -25113,8 +25123,9 @@ focus = {#Norfolk Naval Base
 		y = 1
 			prerequisite = {focus = BIB_revitalize_barren_land}
 			completion_reward = {
-				custom_effect_tooltip = BIB_engineering_schools.tt
+				custom_effect_tooltip = BIB_uni_efficiency_gain.tt
 				add_to_variable = { uni_research_speed = 0.01 }
+				add_to_variable = { uni_efficiency_gain = 0.05 }
 		}
 	}
 		focus = {
@@ -25126,8 +25137,9 @@ focus = {#Norfolk Naval Base
 		y = 1
 			prerequisite = {focus = BIB_agriculture_schools}
 			completion_reward = {
-				custom_effect_tooltip = BIB_engineering_schools.tt
+				custom_effect_tooltip = BIB_uni_efficiency_cap.tt
 				add_to_variable = { uni_research_speed = 0.01 }
+				add_to_variable = { uni_efficiency_cap = 0.05 }
 		}
 	}
 		focus = {
@@ -25139,8 +25151,9 @@ focus = {#Norfolk Naval Base
 		y = 1
 			prerequisite = {focus = BIB_FDA}
 			completion_reward = {
-				custom_effect_tooltip = BIB_engineering_schools.tt
+				custom_effect_tooltip = BIB_uni_efficiency_gain.tt
 				add_to_variable = { uni_research_speed = 0.01 }
+				add_to_variable = { uni_efficiency_gain = 0.05 }
 		}
 	}
 		focus = {
@@ -25153,8 +25166,9 @@ focus = {#Norfolk Naval Base
 			prerequisite = {focus = BIB_gene_modification_of_plants}
 			prerequisite = {focus = BIB_new_american_farmers}
 			completion_reward = {
-				custom_effect_tooltip = BIB_engineering_schools.tt
+				custom_effect_tooltip = BIB_uni_efficiency_cap.tt
 				add_to_variable = { uni_research_speed = 0.01 }
+				add_to_variable = { uni_efficiency_cap = 0.05 }
 		}
 	}
 		focus = {
@@ -25166,8 +25180,9 @@ focus = {#Norfolk Naval Base
 		y = 1
 			prerequisite = {focus = BIB_FDA}
 			completion_reward = {
-				custom_effect_tooltip = BIB_engineering_schools.tt
+				custom_effect_tooltip = BIB_uni_efficiency_cap.tt
 				add_to_variable = { uni_research_speed = 0.01 }
+				add_to_variable = { uni_efficiency_cap = 0.05 }
 		}
 	}
 		focus = {
@@ -25179,8 +25194,9 @@ focus = {#Norfolk Naval Base
 		y = 1
 			prerequisite = {focus = BIB_animal_genetic_sequencing}
 			completion_reward = {
-				custom_effect_tooltip = BIB_engineering_schools.tt
+				custom_effect_tooltip = BIB_medical_schools.tt
 				add_to_variable = { uni_research_speed = 0.01 }
+				add_to_variable = { uni_population = 0.05 }
 		}
 	}
 		focus = {
@@ -25193,8 +25209,10 @@ focus = {#Norfolk Naval Base
 			prerequisite = {focus = BIB_pre_post_hybrids}
 			prerequisite = {focus = BIB_beautiful_american_flora}
 			completion_reward = {
-				custom_effect_tooltip = BIB_engineering_schools.tt
+				custom_effect_tooltip = BIB_american_countryside.tt
 				add_to_variable = { uni_research_speed = 0.01 }
+				add_to_variable = { uni_efficiency_gain = 0.05 }
+				add_to_variable = { uni_population = 0.05 }
 		}
 	}
 ########################################################

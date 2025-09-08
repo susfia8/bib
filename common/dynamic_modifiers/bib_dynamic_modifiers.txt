@@ -35,4 +35,8 @@ bib_universities = {
 	icon = GFX_idea_universities
 
 		research_speed_factor = uni_research_speed
+		monthly_population = uni_population
+		stability_weekly = uni_stability_weekly
+		production_factory_efficiency_gain_factor = uni_efficiency_gain
+		production_factory_max_efficiency_factor = uni_efficiency_cap
 }
