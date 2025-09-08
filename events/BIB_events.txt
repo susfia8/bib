@@ -461,3 +461,17 @@ country_event = { # We Built This City
         remove_ideas = BIB_idea_rebuilding_golden_gate
     }
 }
+
+country_event = { # How we got here
+    id = bib.28
+    title = bib.28.t
+    desc = bib.28.d
+    picture = GFX_event_enc_US_embassy
+
+    is_triggered_only = yes
+
+    option = {
+        name = bib.28.a
+        country_event = { id = bib.29 days = 1 }
+    }
+}

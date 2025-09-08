@@ -24913,6 +24913,7 @@ focus = {#Norfolk Naval Base
 		y = 1
 			prerequisite = {focus = BIB_department_of_education_expanded}
 			completion_reward = {
+				country_event = { id = bib.28 }
 		}
 	}
 		focus = {
