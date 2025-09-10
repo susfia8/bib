@@ -25216,6 +25216,18 @@ focus = {#Norfolk Naval Base
 				add_to_variable = { uni_population = 0.05 }
 		}
 	}
+		focus = {
+			id = BIB_airports
+			icon = GFX_goal_bib_airports
+			cost = 20
+		relative_position_id = BIB_national_corps_for_reconstruction
+		x = -6
+		y = 2
+			prerequisite = {focus = BIB_national_corps_for_reconstruction}
+			completion_reward = {
+					country_event = { id = bib.30 }
+		}
+	}
 ########################################################
 ##################### BACK IN BUSINESS END #############
 ##################### BACK IN BUSINESS END #############
