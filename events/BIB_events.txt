@@ -222,6 +222,13 @@ country_event = { # City of Angels
         name = bib.14.a
         set_province_name = { id = 2404 name = BIB_LOS_ANGELES }
         350 = { set_state_name = BIB_LOS_ANGELES }
+        350 =  {
+        add_state_modifier = {
+        modifier = {
+        local_resources = 2.0
+        }
+    }
+}
         remove_ideas = BIB_idea_vastness_la
     }
 }
