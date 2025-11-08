@@ -479,7 +479,6 @@ country_event = { # How we got here
 
     option = {
         name = bib.28.a
-        country_event = { id = bib.29 days = 1 }
     }
 }
 
