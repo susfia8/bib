@@ -23647,7 +23647,7 @@ focus = {#Norfolk Naval Base
 		y = 1
 			prerequisite = {focus = BIB_back_in_business}
 			available = {
-        owns_state = 1230
+        owns_state = 729
 				}
 			completion_reward = {
 					country_event = { id = bib.2 }
